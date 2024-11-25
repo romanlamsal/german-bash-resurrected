@@ -1,0 +1,607 @@
+[
+  {
+    "date": {
+      "fullDate": "12.02.2012 11:40",
+      "date": "12.02.2012",
+      "time": "11:40"
+    },
+    "id": "#339266",
+    "content": [
+      {
+        "type": "message",
+        "username": "reak",
+        "message": "wir haben ne kiste bier gefunden..."
+      },
+      {
+        "type": "message",
+        "username": "ecke",
+        "message": "welch ein zufall!"
+      },
+      {
+        "type": "message",
+        "username": "reak",
+        "message": "o ja, blieb ne woche unentdeckt"
+      },
+      {
+        "type": "message",
+        "username": "ecke",
+        "message": "wie das?"
+      },
+      {
+        "type": "message",
+        "username": "reak",
+        "message": "stand ne kiste mineralwasser drüber..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.02.2012 11:41",
+      "date": "12.02.2012",
+      "time": "11:41"
+    },
+    "id": "#339332",
+    "content": [
+      {
+        "type": "message",
+        "username": "crimi",
+        "message": "ich glaube ich rieche unangenehm, sollte ich duschen?"
+      },
+      {
+        "type": "message",
+        "username": "defekT",
+        "message": "also wenn du rausgehst"
+      },
+      {
+        "type": "message",
+        "username": "defekT",
+        "message": "und die tiere sind auf einmal ruhig"
+      },
+      {
+        "type": "message",
+        "username": "defekT",
+        "message": "wirds zeit"
+      },
+      {
+        "type": "message",
+        "username": "crimi",
+        "message": "hier gibts keine tiere"
+      },
+      {
+        "type": "message",
+        "username": "defekT",
+        "message": "dann wirds zeit^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.02.2012 07:58",
+      "date": "22.02.2012",
+      "time": "07:58"
+    },
+    "id": "#339753",
+    "content": [
+      {
+        "type": "message",
+        "username": "Henrik",
+        "message": "bin doch angehender Game Developer :P"
+      },
+      {
+        "type": "message",
+        "username": "Henrik",
+        "message": "nächstes Semester dann C++ &lt;3"
+      },
+      {
+        "type": "message",
+        "username": "Tobi",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "Tobi",
+        "message": "haha"
+      },
+      {
+        "type": "message",
+        "username": "Tobi",
+        "message": "du wirst dich noch ärgern :D"
+      },
+      {
+        "type": "message",
+        "username": "Tobi",
+        "message": "C ist wie'n dildo, den du dir in den arsch schiebst"
+      },
+      {
+        "type": "message",
+        "username": "Tobi",
+        "message": "Und bei C++ hat er widerhaken"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.02.2012 18:00",
+      "date": "22.02.2012",
+      "time": "18:00"
+    },
+    "id": "#339756",
+    "content": [
+      {
+        "type": "message",
+        "username": "aztec",
+        "message": "Macs sind das computer-äquivalent von hübschen, dummen frauen"
+      },
+      {
+        "type": "message",
+        "username": "aztec",
+        "message": "können nix, schauen aber gut aus"
+      },
+      {
+        "type": "message",
+        "username": "aztec",
+        "message": "und liegen dir enorm auf der tasche"
+      },
+      {
+        "type": "message",
+        "username": "aztec",
+        "message": "und man kauft sie sich als statusobjekt"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.03.2012 09:52",
+      "date": "01.03.2012",
+      "time": "09:52"
+    },
+    "id": "#339951",
+    "content": [
+      {
+        "type": "message",
+        "username": "Tavolg",
+        "message": "Hi. Ich war sein 4 Jahren nicht mehr in ICQ drinne und weiß nicht mehr wer du bist, hab aber dennoch eine Frage an dich. Ich habe gerade ca. 20 000 Nachrichten von dir erhalten mit merkwürdigen Wörtern, Telefonnummern, Gedichten und sonstigem Unsinn. Was soll das alles?"
+      },
+      {
+        "type": "message",
+        "username": "BoogerT",
+        "message": "Termin beim Psychiater holen:  mein Notizbuch hat plötzlich angefangen zu sprechen."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.03.2012 21:53",
+      "date": "03.03.2012",
+      "time": "21:53"
+    },
+    "id": "#339987",
+    "content": [
+      {
+        "type": "message",
+        "username": "Robert",
+        "message": "Der Witz ist: Nenn mir mal eine Sparte, eine einzige Sparte, die wirklich unter dem INternet leiden musste."
+      },
+      {
+        "type": "message",
+        "username": "Daniel",
+        "message": "Pornos :)"
+      },
+      {
+        "type": "message",
+        "username": "Robert",
+        "message": "Touche"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.03.2012 21:53",
+      "date": "03.03.2012",
+      "time": "21:53"
+    },
+    "id": "#339992",
+    "content": [
+      {
+        "type": "message",
+        "username": "Äige",
+        "message": "Wenn ich im Herbst meines Lebens eine Kneipe aufmachen werde wird sie entweder \"Zum Kotzen\" heissen oder \"Bücherei\""
+      },
+      {
+        "type": "message",
+        "username": "Donar",
+        "message": "Bücherei?"
+      },
+      {
+        "type": "message",
+        "username": "Äige",
+        "message": "Naja \"Schatz, ich bin mal in die Bücherei\", hört sich doch super an"
+      },
+      {
+        "type": "message",
+        "username": "Donar",
+        "message": "geil"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "08.03.2012 12:13",
+      "date": "08.03.2012",
+      "time": "12:13"
+    },
+    "id": "#339989",
+    "content": [
+      {
+        "type": "message",
+        "username": "SchizZzophrenia",
+        "message": "ich will später irgendwas mit tieren machen"
+      },
+      {
+        "type": "message",
+        "username": "SchizZzophrenia",
+        "message": "metzger oder so :)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.03.2012 20:47",
+      "date": "09.03.2012",
+      "time": "20:47"
+    },
+    "id": "#340122",
+    "content": [
+      {
+        "type": "message",
+        "username": "Fluggs",
+        "message": "wie finde ich das Alter einer selbstgebrannten CD heraus, wenn die Dateien dadrauf kein \"geändert am\" haben?"
+      },
+      {
+        "type": "message",
+        "username": "pschraeer",
+        "message": "Ringe zählen *g*"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "11.03.2012 17:25",
+      "date": "11.03.2012",
+      "time": "17:25"
+    },
+    "id": "#340177",
+    "content": [
+      {
+        "type": "message",
+        "username": "koen",
+        "message": "Die Menschen sind die einzigste Rasse auf erden die, \"Rettet die Bäume\", auf Papier schreibt."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.03.2012 20:24",
+      "date": "12.03.2012",
+      "time": "20:24"
+    },
+    "id": "#340195",
+    "content": [
+      {
+        "type": "message",
+        "username": "Timo",
+        "message": "außerdem müssen mädchen eine herausforderung sein, ich gehe nicht auf die jagd um dann einen halb vergammelten hirsch vom boden zu kratzen der an einem hirnschlag verreckt ist."
+      },
+      {
+        "type": "message",
+        "username": "Martin",
+        "message": "... soll ich ihr das schicken?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.03.2012 17:57",
+      "date": "15.03.2012",
+      "time": "17:57"
+    },
+    "id": "#340273",
+    "content": [
+      {
+        "type": "message",
+        "username": "sos",
+        "message": "eurolotto! kommt grad aufm rbb. das spiele ich :)"
+      },
+      {
+        "type": "message",
+        "username": "hm",
+        "message": "was ist denn eurolotto? nen griechischen pass beantragen?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "17.03.2012 13:48",
+      "date": "17.03.2012",
+      "time": "13:48"
+    },
+    "id": "#340308",
+    "content": [
+      {
+        "type": "message",
+        "username": "Mapache_Panzos",
+        "message": "Wenn du dich unsichtbar machen könntest - was würdest du als Erstes tun?"
+      },
+      {
+        "type": "message",
+        "username": "HankJW",
+        "message": "Hm..."
+      },
+      {
+        "type": "message",
+        "username": "HankJW",
+        "message": "Ich würde zuerst nach Paris gehen."
+      },
+      {
+        "type": "message",
+        "username": "Mapache_Panzos",
+        "message": "y?"
+      },
+      {
+        "type": "message",
+        "username": "HankJW",
+        "message": "Wenn ich erstmal in Paris bin, kann ich einen Pantomimen dort zusammenschlagen."
+      },
+      {
+        "type": "message",
+        "username": "HankJW",
+        "message": "Was denkst du, wie die Leute für so eine Vorstellung applaudieren würden?"
+      },
+      {
+        "type": "message",
+        "username": "Mapache_Panzos",
+        "message": "LOOOL!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "24.03.2012 02:57",
+      "date": "24.03.2012",
+      "time": "02:57"
+    },
+    "id": "#340385",
+    "content": [
+      {
+        "type": "message",
+        "username": "Elli",
+        "message": "Mein Freund ist einfach zu gut um wahr zu sein :D"
+      },
+      {
+        "type": "message",
+        "username": "Elli",
+        "message": "Ich steh ja auf Theater und er hasst es da hin zu gehen. Jedes Mal sagt er, er hat das Buch dazu gelesen oder den Film gesehen oder was auch immer"
+      },
+      {
+        "type": "message",
+        "username": "Elli",
+        "message": "Quintessenz ist immer: Will ich nicht sehen, kenn ich schon."
+      },
+      {
+        "type": "message",
+        "username": "Elli",
+        "message": "Also hab ich ihm vorgeschlagen, ins Improvisations-Theater zu gehen..."
+      },
+      {
+        "type": "message",
+        "username": "Elli",
+        "message": "Er: Nee, hab ich keine Lust zu, ich kenn das Stück schon."
+      },
+      {
+        "type": "message",
+        "username": "Elli",
+        "message": "Manchmal glaube ich, sein Großhirn ist auf Dauerurlaub. Und jetzt zieht er sich notgedrungen gerade an, weil's in 30 Minuten los geht :P"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "24.03.2012 02:58",
+      "date": "24.03.2012",
+      "time": "02:58"
+    },
+    "id": "#340426",
+    "content": [
+      {
+        "type": "message",
+        "username": "Latour",
+        "message": ": ... und einmal mehr legt sich dieser niederträchtige Dienstag wie ein Brechmittel über's Land und verspottet mit seinem fiesen Grinsen all jene frustrierten, frühaufstehenden Sklaven dieser Gesellschaft. Stirb Dienstag, oh du kleiner, hässlicher Bruder des Montags... ! STIRB!"
+      },
+      {
+        "type": "message",
+        "username": "Neith24",
+        "message": ": es ist mittwoch O.o"
+      },
+      {
+        "type": "message",
+        "username": "Latour",
+        "message": ": Oh."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "25.03.2012 08:54",
+      "date": "25.03.2012",
+      "time": "08:54"
+    },
+    "id": "#340459",
+    "content": [
+      {
+        "type": "message",
+        "username": "Er",
+        "message": "Ähm, Schatz.... Ich,.... Ich eh...."
+      },
+      {
+        "type": "message",
+        "username": "Sie",
+        "message": "Ja mein Schatz ich dich auch!"
+      },
+      {
+        "type": "message",
+        "username": "Er",
+        "message": "Ja?! Mit wem denn?!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.04.2012 18:03",
+      "date": "01.04.2012",
+      "time": "18:03"
+    },
+    "id": "#340645",
+    "content": [
+      {
+        "type": "message",
+        "username": "Blutbluemchen",
+        "message": "“Der mutmaßliche Mörder der 11-jährigen Lena ist ein Einzelgänger und spielt gern brutale Ballerspiele am Computer.”"
+      },
+      {
+        "type": "message",
+        "username": "Blutbluemchen",
+        "message": "aaaachso.. simma scho wieder so weit? Ich sammle übrigens schon Bratpfannen für meinen Amoklauf. Hab n bisschen zu viel L4D2 gezockt."
+      },
+      {
+        "type": "message",
+        "username": "Mondblut",
+        "message": "ich werf' immer Steine von Brücken auf Autos. Tetris und so."
+      },
+      {
+        "type": "message",
+        "username": "Blutbluemchen",
+        "message": "du darfst natürlich die Leute nicht vergessen, die ständig versuchen, anderen mit ihrem Arsch auf den Kopf zu hüpfen. Super Mario, sehr dramatisch das ganze."
+      },
+      {
+        "type": "message",
+        "username": "Nekesh",
+        "message": "ich bin da mehr der Sim-City Typ und reiß ganze Städte ein."
+      },
+      {
+        "type": "message",
+        "username": "Sharazz",
+        "message": "für die Presse is auch Pong nen brutales Ballerspiel."
+      },
+      {
+        "type": "message",
+        "username": "Nekesh",
+        "message": "Pong is für Mobbing verantwortlich, 2 große dünne schubsen nen kleinen dicken rum, is doch eindeutig!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.04.2012 21:32",
+      "date": "03.04.2012",
+      "time": "21:32"
+    },
+    "id": "#340755",
+    "content": [
+      {
+        "type": "message",
+        "username": "TimeEater",
+        "message": "Kein Wunder, dass ich mein Durcheinander nur von einem Zimmer ins nächste verschiebe... bin schließlich mit einem Rechner aufgewachsen, der ne Auslagerunsdatei hatte =)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "06.04.2012 21:00",
+      "date": "06.04.2012",
+      "time": "21:00"
+    },
+    "id": "#340778",
+    "content": [
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Da soll nochmal eienr sagen, dass einkaufen langweilig sei..."
+      },
+      {
+        "type": "message",
+        "username": "Blackmaster",
+        "message": "Wieso was war denn passiert?"
+      },
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Ich habe seit Monaten als Klingelton den Soundtrack von BF3"
+      },
+      {
+        "type": "message",
+        "username": "Blackmaster",
+        "message": "Jop"
+      },
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Ich stand an der Kasse, hinter mir ein paar Männer. Lass die mal um die 40 gewesen sein..."
+      },
+      {
+        "type": "message",
+        "username": "Blackmaster",
+        "message": "Und weiter?"
+      },
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Jedenfalls klingelte mein Handy und ich ging ran. Hatte mich dabei nochmal umgedreht, weil ich das Gefühl hatte iwas zu vergessen zu haben."
+      },
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Zuerst htte ich garnicht darauf geachtet gehabt. Doch beim zweiten Blick sah ich dann, dass die hinter mir alle Ihre Sweatshirts aufgemacht hatten"
+      },
+      {
+        "type": "message",
+        "username": "Blackmaster",
+        "message": "klingt pervers xD"
+      },
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Die hatten allesamt BF3 Shirts angehabt xD Ich musste dermaßen loslachen, dass mit beinahe das Handy runtergefallen wäre xD"
+      },
+      {
+        "type": "message",
+        "username": "MatriX44",
+        "message": "Hätte echt nurnoch gefehlt, dass die mich nach meiner Battlelog-ID gefragt hätten xD"
+      },
+      {
+        "type": "message",
+        "username": "Blackmaster",
+        "message": "Ne, oder? Ich glaube ich muss da auch mal einkaufen bei den Sachen, die du da erlebst xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "06.04.2012 21:01",
+      "date": "06.04.2012",
+      "time": "21:01"
+    },
+    "id": "#340812",
+    "content": [
+      {
+        "type": "message",
+        "username": "Pete",
+        "message": "Ich hab meinen Füherschein verloren wegen Alkohol."
+      },
+      {
+        "type": "message",
+        "username": "Denise",
+        "message": "Jetzt echt?! Und du hast ihn nirgends mehr gefunden?"
+      }
+    ]
+  }
+]

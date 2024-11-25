@@ -1,0 +1,139 @@
+---
+import { getCollection } from "astro:content"
+
+export async function getStaticPaths() {
+    const pages = await getCollection("page")
+
+    return pages.map(page => {
+        const pageNum = page.id.replace("page", "")
+        return {
+            params: { id: pageNum },
+            props: { page, currentPage: parseInt(pageNum), numPages: pages.length },
+        }
+    })
+}
+
+const { page, currentPage, numPages } = Astro.props
+
+function coloredUsername(username) {
+    let hash = 0
+    username.split("").forEach(char => {
+        hash = char.charCodeAt(0) + ((hash << 5) - hash)
+    })
+    let colour = "#"
+    for (let i = 0; i < 3; i++) {
+        const value = (hash >> (i * 8)) & 0xff
+        colour += value.toString(16).padStart(2, "0")
+    }
+    return colour
+}
+
+---
+
+<script>
+    const swipeArea = document.querySelector("ul");
+    const swipeThreshold = window.outerWidth / 3
+
+    let touchStartX = 0;
+    let touchEndX = 0;
+
+    swipeArea.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+    });
+
+    swipeArea.addEventListener('touchmove', (e) => {
+        const deltaX = e.changedTouches[0].screenX - touchStartX;
+
+        const clampedTranslateX = Math.max(Math.min(swipeThreshold, deltaX), -swipeThreshold);
+
+        if (Math.abs(deltaX) > swipeThreshold/2)
+            swipeArea.style.translate = `${clampedTranslateX}px 0`
+    });
+
+    swipeArea.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+
+        swipeArea.style.translate = ""
+
+        const swipeDirection = getSwipeDirection(touchStartX, touchEndX);
+
+        if (swipeDirection) {
+            handleSwipe(swipeDirection);
+        }
+    });
+
+    function getSwipeDirection(startX, endX) {
+        const deltaX = endX - startX;
+
+        if (Math.abs(deltaX) > swipeThreshold) {
+            return deltaX > 0 ? -1 : 1;
+        }
+
+        return 0
+    }
+
+    function handleSwipe(direction) {
+        if (direction < 0) {
+            document.querySelector("#nav-prev a").click()
+        }
+        if (direction > 0) {
+            document.querySelector("#nav-next a").click()
+        }
+
+        // You can replace the alert with any action you want to take based on the swipe direction
+    }
+</script>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="relative">
+<h1 class="font-mono text-center w-full py-4 text-xl">german-bash.org resurrected</h1>
+<ul class="flex flex-col gap-y-8 px-4 font-mono transition-transform duration-1000">
+    {page.data.map(entry => {
+        const firstUser = entry.content.find(e => e.username)
+        const firstUsername = firstUser ? firstUser.username : null
+
+        return <li key={entry.id} class="px-2 md:px-4 py-2 border-2 rounded-sm">
+            <article>
+                <header class="text-xs text-slate-600 mb-2">{entry.id} | {entry.date.fullDate}</header>
+                <main class="grid grid-cols-1 md:grid-cols-[auto_1fr] [&>p]:md:col-span-2 gap-x-4 gap-y-2 md:gap-y-1">
+                    {entry.content.map(line => {
+                        const message = line.message.replaceAll("&gt;", ">").replaceAll("&lt;", "<")
+                        return line.username
+                            ? <p class:list={["grid grid-cols-subgrid border md:border-0 [&>*]:py-0.5 [&>*]:px-2 [&>*]:md:p-0 rounded-xl"]}>
+                                    <span
+                                            class={`md:text-base text-xs bg-[var(--username-color-opaque)] md:bg-inherit max-h-max tracking-wider md:tracking-normal text-black md:text-[var(--username-color)]`}
+                                            style={`--username-color: ${coloredUsername(line.username)}; --username-color-opaque: ${coloredUsername(line.username)}88`}
+                                    >
+                                        {line.username}
+                                    </span>
+                                    <span
+                                        class="[&>a]:underline"
+                                        style="word-break: break-word" set:html={message}>
+                                    </span>
+                                </p>
+                            : <p class="text-gray-500">{message}</p>;
+                    })}
+                </main>
+            </article>
+        </li>;
+    })}
+</ul>
+<nav class="sticky bottom-0 inset-x-0 text-center p-8 text-lg md:text-2xl bg-gradient-to-b from-white/50 to-gray-400/50 font-mono">
+    <button id="nav-prev" disabled={currentPage === 1} class:list={["disabled:invisible disabled:pointer-events-none"]}>
+        <a href={`/page/${currentPage - 1}`} class="bg-white border rounded-lg px-6 py-4 hover:bg-gray-100">
+            {"<"}
+        </a>
+    </button>
+    <span class="bg-white p-4 rounded-lg border-0">{currentPage}</span>
+    <button id="nav-next" disabled={currentPage === numPages} class:list={["disabled:invisible disabled:pointer-events-none"]}>
+        <a href={`/page/${currentPage + 1}`} class="bg-white border rounded-lg px-6 py-4 hover:bg-gray-100">
+            {">"}
+        </a>
+    </button>
+</nav>
+</body>
+</html>

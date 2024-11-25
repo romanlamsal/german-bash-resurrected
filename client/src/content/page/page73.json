@@ -1,0 +1,512 @@
+[
+  {
+    "date": {
+      "fullDate": "01.08.2005 23:26",
+      "date": "01.08.2005",
+      "time": "23:26"
+    },
+    "id": "#12345",
+    "content": [
+      {
+        "username": "foxboj6",
+        "message": "fuck ich blute, sieht aus wie geschnitten"
+      },
+      {
+        "username": "snakeboj",
+        "message": "lol wo das?"
+      },
+      {
+        "username": "foxboj6",
+        "message": "am brötchen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.08.2005 23:43",
+      "date": "01.08.2005",
+      "time": "23:43"
+    },
+    "id": "#12401",
+    "content": [
+      {
+        "username": "!kirkalot",
+        "message": "ich brauch einen namen für einen ultimativen rohstoff der in die steinzeit passt"
+      },
+      {
+        "username": "@Joey",
+        "message": "Stein"
+      },
+      {
+        "username": "@PhExX",
+        "message": "lol"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.08.2005 23:47",
+      "date": "01.08.2005",
+      "time": "23:47"
+    },
+    "id": "#12417",
+    "content": [
+      {
+        "username": "Oley",
+        "message": "was kann man'ner freundin zum 17. bday schenken?"
+      },
+      {
+        "username": "Laura",
+        "message": "ähmmm was mag die denn so...alk"
+      },
+      {
+        "username": "Oley",
+        "message": "was vernünftiges ;D"
+      },
+      {
+        "username": "Laura",
+        "message": "wa smag die denn so"
+      },
+      {
+        "username": "Oley",
+        "message": "weiß ich ent =/"
+      },
+      {
+        "username": "Oley",
+        "message": "is so typisch mädchen"
+      },
+      {
+        "username": "Oley",
+        "message": "lebensfroh und alles"
+      },
+      {
+        "username": "Oley",
+        "message": "so wie du halt (:"
+      },
+      {
+        "username": "Laura",
+        "message": "ka....alk"
+      },
+      {
+        "message": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.08.2005 11:37",
+      "date": "02.08.2005",
+      "time": "11:37"
+    },
+    "id": "#12343",
+    "content": [
+      {
+        "message": "Nivek: immer wenn ich rl haben muss is mein internet putt und ich muss mich mit der Telkom unterhalten ,das ist echt beängstigend..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.08.2005 14:54",
+      "date": "02.08.2005",
+      "time": "14:54"
+    },
+    "id": "#12420",
+    "content": [
+      {
+        "username": "@Athrun&gt; &lt;blub0r",
+        "message": "Wie mache ich mit der Tastatur die römischen Ziffern?"
+      },
+      {
+        "username": "@Athrun&gt; &lt;asel",
+        "message": "rofl"
+      },
+      {
+        "username": "+Asu",
+        "message": "was sind römische Ziffern?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.08.2005 15:16",
+      "date": "02.08.2005",
+      "time": "15:16"
+    },
+    "id": "#12434",
+    "content": [
+      {
+        "message": "(*LeGoLiEnChEn) auf grund der rationalisierung wurde gott und teufel abgeschaft und ein eggdrop eingesetzt"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.08.2005 15:26",
+      "date": "02.08.2005",
+      "time": "15:26"
+    },
+    "id": "#12455",
+    "content": [
+      {
+        "username": "Freezee",
+        "message": "frauen sind wie männer, die sich wie kinder benehmen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.08.2005 17:28",
+      "date": "02.08.2005",
+      "time": "17:28"
+    },
+    "id": "#12495",
+    "content": [
+      {
+        "username": "@NeroX41",
+        "message": "eigentlich darf man das ja keinen erzählen... aber meine mutter wollte ins netz. dazu muss man erst die WLAN karte aktivieren, auf dem bildschirm stand dann also \"netzwerkkabel nicht angeschlossen\". was macht sie? nimmt ein usb vom fotoapperat das vorn im pc steckt und versucht es in den monitor(!!!) am s-bus zu stecken!!?!?!?! daruf macht es \"zup\" und der bildschirm ist schwarz... ich habe alles versucht... der ging nicht mehr an. dann habe ich ihn zu meinem pc getragen, angeschlossen ging... wieder zurückgetragen und dann ging es am anderen pc auch wieder..."
+      },
+      {
+        "username": "@NeroX41",
+        "message": "das hat den letzten funken hoffnung, dass meine mutter irgendwann mal mit nem pc umgehen kann, erloschen"
+      },
+      {
+        "username": "@Faky",
+        "message": "loooooooool"
+      },
+      {
+        "username": "@NeroX41",
+        "message": "krass oder?"
+      },
+      {
+        "username": "@NeroX41",
+        "message": "ich war total schockiert"
+      },
+      {
+        "username": "@Faky",
+        "message": "sie wollte den monitor per usb kabel mit dem laptop verbinden weil kein netzwerkkabel angeschlossen war obwohl es eigntlich mit WLAN(!!) gehen sollte!?!?!"
+      },
+      {
+        "username": "@Faky",
+        "message": "OH"
+      },
+      {
+        "username": "@Faky",
+        "message": "MEIN"
+      },
+      {
+        "username": "@Faky",
+        "message": "GOTT"
+      },
+      {
+        "username": "@Faky",
+        "message": "!!!!"
+      },
+      {
+        "username": "@NeroX41",
+        "message": "ich habe mein mutter 10 sek angeschaut und gefragt ob das nen witz sein soll"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.08.2005 23:07",
+      "date": "02.08.2005",
+      "time": "23:07"
+    },
+    "id": "#12548",
+    "content": [
+      {
+        "username": "fighterXXL",
+        "message": "Da hab ich für meine Freundin das auf DVD gebrannt..."
+      },
+      {
+        "username": "fighterXXL",
+        "message": "Und sie fragt:"
+      },
+      {
+        "username": "fighterXXL",
+        "message": "Muss ich die DVD zurückspulen?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 13:53",
+      "date": "03.08.2005",
+      "time": "13:53"
+    },
+    "id": "#12482",
+    "content": [
+      {
+        "message": "Xenox: rofl, oh noes ich hab vergessen was in welchem paket war"
+      },
+      {
+        "message": "\nXenox: und die empfaenger stehen nochnich drauf"
+      },
+      {
+        "message": "\nXenox: egal, geruchstest gemacht und nun hoffen, dass ich richtig liege :&gt;"
+      },
+      {
+        "message": "\nCelidh: Sonst bekommt deine Mutter den Vibrator den du einer Freundin schenken wolltest?"
+      },
+      {
+        "message": "\nXenox: ja und meine freundin die analkette"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 13:54",
+      "date": "03.08.2005",
+      "time": "13:54"
+    },
+    "id": "#12489",
+    "content": [
+      {
+        "username": "snakeboj",
+        "message": "warum hast du eigentlich immer andere zahlen am namen?"
+      },
+      {
+        "username": "foxboj6",
+        "message": "weil mir die Buchstaben ausgehen"
+      },
+      {
+        "username": "foxboj6",
+        "message": "nein weil ich mein Passwort immer vergesse"
+      },
+      {
+        "message": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:23",
+      "date": "03.08.2005",
+      "time": "19:23"
+    },
+    "id": "#12637",
+    "content": [
+      {
+        "message": "Paranoid!: rofl, also entweder mein Cousin is völlig bescheuert oder er hat wirklich n Problem :-D"
+      },
+      {
+        "message": "\nHandmaid Sara: naja, es is dein Cousin, also alles beide..."
+      },
+      {
+        "message": "\nParanoid!: hmpf"
+      },
+      {
+        "message": "\nParanoid!: angeblich kann er sich keinen mehr runterholen, weil sein Ellenbogen entzunden ist und is deswegen grad kurz vorm Durchdrehen :-D"
+      },
+      {
+        "message": "\nHandmaid Sara: rofl"
+      },
+      {
+        "message": "\nHandmaid Sara: und wieso nimmt er net die andre Hand"
+      },
+      {
+        "message": "\nHandmaid Sara: oder is ihm das unangenehm, mal fremd zu gehen"
+      },
+      {
+        "message": "\nParanoid!: rofl muahahah"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:25",
+      "date": "03.08.2005",
+      "time": "19:25"
+    },
+    "id": "#12632",
+    "content": [
+      {
+        "username": "NiNJaPHiL",
+        "message": "es können 0,001% der menschheit ddosn :P"
+      },
+      {
+        "username": "Quits:",
+        "message": "NiNJaPHiL (Read error: Operation timed out)"
+      },
+      {
+        "username": "ln",
+        "message": "womit bewiesen wäre, dass hier die 0,001% der menschheit sind, die ddosen können... ;&gt;"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:28",
+      "date": "03.08.2005",
+      "time": "19:28"
+    },
+    "id": "#12561",
+    "content": [
+      {
+        "username": "Ghoststalker",
+        "message": "hrm....coden erinnert mich immer wieda an rechtsinformatik^^"
+      },
+      {
+        "username": "Ghoststalker",
+        "message": "wenn ich das als ergänzungsstudiengang nehm"
+      },
+      {
+        "username": "Ghoststalker",
+        "message": "krieg ich am ende den Titel Master of Law ^-^"
+      },
+      {
+        "username": "Ghoststalker",
+        "message": "irgendwie klingt das geil^^"
+      },
+      {
+        "username": "ryen",
+        "message": "ich bin btw auch ein Master of Law"
+      },
+      {
+        "username": "ryen",
+        "message": "aber in Tekken 2"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:28",
+      "date": "03.08.2005",
+      "time": "19:28"
+    },
+    "id": "#12562",
+    "content": [
+      {
+        "username": "nilss",
+        "message": "whaa alles was ich an javascript schreib heute und gestern bringt den ie zum crashen!"
+      },
+      {
+        "username": "Zero",
+        "message": "javascript coders always get their punishment"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:34",
+      "date": "03.08.2005",
+      "time": "19:34"
+    },
+    "id": "#12611",
+    "content": [
+      {
+        "username": "Smo-G",
+        "message": "Frauen haben das Feuer erfunden, danit die Männer es auspinkeln können."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:35",
+      "date": "03.08.2005",
+      "time": "19:35"
+    },
+    "id": "#12608",
+    "content": [
+      {
+        "username": "Dell",
+        "message": "Ich vinde techno ziemlich scheiße von mier aus gesehen ist das so als ob dir wer den ganzen Tag einen Hammer im Techno Beet auf den kopf schlägt "
+      },
+      {
+        "username": "nexus",
+        "message": "Dir könnte man mal nen Tag lang mit nem Duden aufn Kopf schlagen"
+      },
+      {
+        "username": "ACE",
+        "message": "lol"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:37",
+      "date": "03.08.2005",
+      "time": "19:37"
+    },
+    "id": "#12603",
+    "content": [
+      {
+        "username": "Regenbogenkind",
+        "message": "Mein bruder so \"Eh das buch wo du mir geschenkt hast hat voll viele bilder aber voll keine gute story\".... und ich so: \"Das isn Weltatlas?\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 19:45",
+      "date": "03.08.2005",
+      "time": "19:45"
+    },
+    "id": "#12640",
+    "content": [
+      {
+        "username": "+Drosan&gt; meinen Biologie unterricht hol ich mir immer unter Google &gt;",
+        "message": "Bilder O_o"
+      },
+      {
+        "username": "+SirZeiber",
+        "message": "wieso bio? wollt wissen wie die blöde lampe heisst die se da gezeigt ham, hab ne aufgepasst"
+      },
+      {
+        "username": "+Drosan",
+        "message": "Zeiber du musst noch viel lernen bis zum richtigen nerd =)"
+      },
+      {
+        "username": "+SirZeiber",
+        "message": "drosan, bildest mich aus? ;p"
+      },
+      {
+        "username": "+Drosan",
+        "message": "als erstes musst du jeglichen kontakt zum sozialen umfeld abbrechen"
+      },
+      {
+        "username": "+Drosan",
+        "message": "dich nur noch von pizzas ernähren"
+      },
+      {
+        "username": "+SirZeiber",
+        "message": "hab ich eh net, hab sogar meine mutter im icq o.O"
+      },
+      {
+        "username": "+Drosan",
+        "message": "omfg ;D"
+      },
+      {
+        "username": "+SirZeiber",
+        "message": "aber auf invisible dmait sie net meckert das ich den ganzen tag im inet bin^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.08.2005 20:06",
+      "date": "03.08.2005",
+      "time": "20:06"
+    },
+    "id": "#12642",
+    "content": [
+      {
+        "username": "mikbad",
+        "message": "lol, ich war heute mit Silo in der Stadt"
+      },
+      {
+        "username": "mikbad",
+        "message": "geht da eine alte Frau vor uns mit Stock"
+      },
+      {
+        "username": "mikbad",
+        "message": "sagt Silo \"Entschuldigung, Sie laggen derbst! Würden Sie uns vorlassen?\""
+      },
+      {
+        "message": "\n"
+      }
+    ]
+  }
+]

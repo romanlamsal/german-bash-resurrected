@@ -1,0 +1,633 @@
+[
+  {
+    "date": {
+      "fullDate": "16.03.2010 08:52",
+      "date": "16.03.2010",
+      "time": "08:52"
+    },
+    "id": "#294693",
+    "content": [
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "manchmal zweifel ich ja selbst an mir..."
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "ich war grad kurz inner küche"
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "und als ich wiederkam"
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "dachte ich \"was das denn fürn lärm\""
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "\"erstmal winamp anmachen, vll übertönt der das\""
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "dann wars plötzlich ruhig"
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "und ich stellte fest"
+      },
+      {
+        "type": "message",
+        "username": "ralle",
+        "message": "der lärm WAR winamp Oo"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.03.2010 08:52",
+      "date": "16.03.2010",
+      "time": "08:52"
+    },
+    "id": "#294722",
+    "content": [
+      {
+        "type": "message",
+        "username": "Trekkie",
+        "message": "Hat schon jemand n iPad gekauft? Seid ihr zufrieden?"
+      },
+      {
+        "type": "message",
+        "username": "Psyman2",
+        "message": "*rüttelt an seinem Tisch*"
+      },
+      {
+        "type": "message",
+        "username": "Psyman2",
+        "message": "Sehr zufrieden, nichts wackelt mehr"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.03.2010 08:52",
+      "date": "16.03.2010",
+      "time": "08:52"
+    },
+    "id": "#294798",
+    "content": [
+      {
+        "type": "message",
+        "username": "Roy_McLure",
+        "message": "Ich fahr dann nochmal los in die Disko, wer will mit, hätte vorne links noch nen Platz?"
+      },
+      {
+        "type": "message",
+        "username": "jOjO",
+        "message": "klar bin dabei...."
+      },
+      {
+        "type": "message",
+        "username": "Roy_McLure",
+        "message": "OK, wann holste mich ab?"
+      },
+      {
+        "type": "message",
+        "username": "jOjO",
+        "message": "Wie? Ich? Ich dachte..... ach shit.... "
+      },
+      {
+        "type": "message",
+        "username": "Roy_McLure",
+        "message": "pwned!! Also wann gehts los?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.03.2010 13:40",
+      "date": "16.03.2010",
+      "time": "13:40"
+    },
+    "id": "#294802",
+    "content": [
+      {
+        "type": "message",
+        "username": "Biber",
+        "message": "Wenn 42 DIE Antwort auf alles ist"
+      },
+      {
+        "type": "message",
+        "username": "Biber",
+        "message": "Dann müsste ja Pi * Daumen = 42 sein"
+      },
+      {
+        "type": "activity",
+        "username": "Daumen",
+        "activity": "= 42 sein"
+      },
+      {
+        "type": "message",
+        "username": "Biber",
+        "message": "Und Pi ist ja 3,141592653589793238462643383279"
+      },
+      {
+        "type": "message",
+        "username": "Biber",
+        "message": "Und nach der Umstellung ergibt sich, daaaaaaaass"
+      },
+      {
+        "type": "message",
+        "username": "Biber",
+        "message": "Daumen ~~ 13,37 sein muss"
+      },
+      {
+        "type": "message",
+        "username": "Biber&gt; ---",
+        "message": "1337^^"
+      },
+      {
+        "type": "message",
+        "username": "C-SILD",
+        "message": "Nerd... Schon allein das, dass du 30 stellen von Pi weißt -.-"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.03.2010 11:58",
+      "date": "21.03.2010",
+      "time": "11:58"
+    },
+    "id": "#294932",
+    "content": [
+      {
+        "type": "message",
+        "username": "Thor",
+        "message": "Was auch geil ist: Im evangelischen Religionsunterricht mittendrin mal reinrufen: \"Der Papst lebt!\""
+      },
+      {
+        "type": "message",
+        "username": "Thor",
+        "message": "Oder du kommst mit dem Spruch: \"Gott hängt zwischen meinen Beinen.\""
+      },
+      {
+        "type": "message",
+        "username": "Thor",
+        "message": "Seitdem komme ich nicht über 3 Punkte mündlich raus."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.03.2010 12:00",
+      "date": "21.03.2010",
+      "time": "12:00"
+    },
+    "id": "#295095",
+    "content": [
+      {
+        "type": "message",
+        "username": "+shoty",
+        "message": "leute nehmen wir an ich hab einen einzelnen ordner mit 1gb mp3 dateien alle beschissen beannnt und kreuz und quer wie krieg ich die hübsch in ordnerstruktur mit passenden tags ohne viel selbst zu tun"
+      },
+      {
+        "type": "message",
+        "username": "+shoty",
+        "message": "programmvorschläge?"
+      },
+      {
+        "type": "message",
+        "username": "+tschy2m",
+        "message": "shoty: shift+del"
+      },
+      {
+        "type": "message",
+        "username": "+shoty",
+        "message": "geil danke ordner ist aufgeräumt"
+      },
+      {
+        "type": "message",
+        "username": "+shoty",
+        "message": "tschy2m wo hat windows die dateien jetzt hingetan ?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.03.2010 23:54",
+      "date": "21.03.2010",
+      "time": "23:54"
+    },
+    "id": "#295170",
+    "content": [
+      {
+        "type": "message",
+        "username": "Frozen_Eagle",
+        "message": "früher fand ich drogen mal schlecht und böse"
+      },
+      {
+        "type": "message",
+        "username": "Frozen_Eagle",
+        "message": "früher fand ich auch steuerhinterzieher böse"
+      },
+      {
+        "type": "message",
+        "username": "Lars",
+        "message": "xD und jetzte?"
+      },
+      {
+        "type": "message",
+        "username": "Frozen_Eagle",
+        "message": "seit ich rechnungswesen habe hat sich beides geändert"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.03.2010 13:52",
+      "date": "26.03.2010",
+      "time": "13:52"
+    },
+    "id": "#295399",
+    "content": [
+      {
+        "type": "message",
+        "username": "DoubleX",
+        "message": "lol... ich fahr jeden tag bahn zur uni.. und dort sind ja immer recht fertige leute am start.."
+      },
+      {
+        "type": "message",
+        "username": "TripleO",
+        "message": "jo ;)"
+      },
+      {
+        "type": "message",
+        "username": "DoubleX",
+        "message": "aber heute war echt der hammer !"
+      },
+      {
+        "type": "message",
+        "username": "DoubleX",
+        "message": "bin erst gegen 18uhr am hauptbahnhof und warte auf die bahn... um die uhrzeit ist die bahn immer derbe voll.."
+      },
+      {
+        "type": "message",
+        "username": "DoubleX",
+        "message": "bahn kommt also und wir gehen alle rein. ich steh auf dem gang, neben mir eine ältere dame."
+      },
+      {
+        "type": "message",
+        "username": "DoubleX",
+        "message": "die ältere dame schaut einen jungen (~23) an und fragt ihn, ob sie dort sitzen kann."
+      },
+      {
+        "type": "message",
+        "username": "DoubleX",
+        "message": "er nimmt die stöpsel aus den ohren und lässt sich die frage nochmal stellen."
+      },
+      {
+        "type": "misc",
+        "text": "\ner erwidert: beziehen sie rente?"
+      },
+      {
+        "type": "misc",
+        "text": "\nsie guckt irritiert und sagt: ja"
+      },
+      {
+        "type": "misc",
+        "text": "\ner sagt dann ganz ruhig und nüchtern: gut, dann ist es wohl für die wirtschaft besser, wenn ich als arbeiter meine knochen schone, als dass sie dadurch noch länger rente beziehn."
+      },
+      {
+        "type": "misc",
+        "text": "\ner steckt seine stöpsel in die ohren und liest weiter seine Bild-zeitung"
+      },
+      {
+        "type": "message",
+        "username": "TripleO",
+        "message": "lol... aber wo er recht hat ;)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.03.2010 23:23",
+      "date": "26.03.2010",
+      "time": "23:23"
+    },
+    "id": "#295440",
+    "content": [
+      {
+        "type": "message",
+        "username": "fasan",
+        "message": "Morgen, ich hab gehört, der Tommy hats das Wochenende wieder mal gerissen :D"
+      },
+      {
+        "type": "message",
+        "username": "kay",
+        "message": "In der Tat."
+      },
+      {
+        "type": "message",
+        "username": "fasan",
+        "message": "Hat von nem Nazi auf die Fresse bekommen? :D"
+      },
+      {
+        "type": "message",
+        "username": "kay",
+        "message": "Er hat's aber auch ein bisschen provoziert, muss man sagen."
+      },
+      {
+        "type": "message",
+        "username": "fasan",
+        "message": "Wieso, was war?"
+      },
+      {
+        "type": "message",
+        "username": "kay",
+        "message": "Du kennst doch seine Star-Trek-Phase, wenn er wirklich dicht ist?"
+      },
+      {
+        "type": "message",
+        "username": "fasan",
+        "message": "Wer kennt die nicht."
+      },
+      {
+        "type": "message",
+        "username": "kay",
+        "message": "Ja. Und als wir die Woche auf Party waren, kamen irgendwann so zwei Glatzen an und wollten Stress wegen irgendwas. Er war leider hackevoll, also gings los. Als ihn einer von denen gefragt hat, ob er paar auf's Maul will, hat er sich mechanisch umgedreht, den Typen kurz abschätzend gemustert und gesagt: \"Spezies Acht Acht. Nationalsozialist. Humanoid. Geringe Hirnaktivität. Partiell beschränkter Haarwuchs. Erhält die Instruktionen vom Kollektiv. Für Assimilation irrele..\" weiter ist er nicht gekommen, dann hat man ihn, äh, beschädigt, weil die Glatze meinte, er hätte ihn Asi genannt."
+      },
+      {
+        "type": "message",
+        "username": "fasan",
+        "message": "Rofl, jaja, der Tommy xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.03.2010 23:24",
+      "date": "26.03.2010",
+      "time": "23:24"
+    },
+    "id": "#295448",
+    "content": [
+      {
+        "type": "message",
+        "username": "Irrenhaus3",
+        "message": "nur weil ich in bayern lebe, sprech ich noch lange nicht diese fremdsprache, die sich hier eingebürgert hat ^^"
+      },
+      {
+        "type": "message",
+        "username": "Spellmaker",
+        "message": "du meinst hochdeutsch? :D"
+      },
+      {
+        "type": "message",
+        "username": "Irrenhaus3",
+        "message": "arschloch ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.03.2010 23:43",
+      "date": "26.03.2010",
+      "time": "23:43"
+    },
+    "id": "#295538",
+    "content": [
+      {
+        "type": "message",
+        "username": "Stefan",
+        "message": "ich werde mir zwei goldfische kaufen und die einer und zwei nennen ^^"
+      },
+      {
+        "type": "message",
+        "username": "Heiko",
+        "message": "warum? o.O"
+      },
+      {
+        "type": "message",
+        "username": "Stefan",
+        "message": "wenn einer stirbt habe ich immer noch zwei xD"
+      },
+      {
+        "type": "message",
+        "username": "Heiko",
+        "message": "und wenn zwei sterben?"
+      },
+      {
+        "type": "message",
+        "username": "Stefan",
+        "message": "hab ich immer noch einen :D"
+      },
+      {
+        "type": "message",
+        "username": "Heiko",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.03.2010 13:50",
+      "date": "28.03.2010",
+      "time": "13:50"
+    },
+    "id": "#295379",
+    "content": [
+      {
+        "type": "message",
+        "username": "Psyman2",
+        "message": "Wien ist anders..."
+      },
+      {
+        "type": "message",
+        "username": "Psyman2",
+        "message": "Grade eben Radio gelauscht"
+      },
+      {
+        "type": "message",
+        "username": "Psyman2",
+        "message": "Frauenstimme: \"Ich wünsche mir für meinen Freund das Lied 'All the small things'\""
+      },
+      {
+        "type": "message",
+        "username": "BiBo",
+        "message": "autsch"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "30.03.2010 20:12",
+      "date": "30.03.2010",
+      "time": "20:12"
+    },
+    "id": "#295693",
+    "content": [
+      {
+        "type": "message",
+        "username": "Fabi",
+        "message": "ey weißt du zufällig warum saskia so sauer auf mich ist? ich wollt eig sie fragen ob sie mit mir gehen will"
+      },
+      {
+        "type": "message",
+        "username": "Sven",
+        "message": "Yo sie hat mir gesagt das du sie gefragt hast ob sie noch jungfrau is, sowas macht man bei mädchen nicht"
+      },
+      {
+        "type": "message",
+        "username": "Fabi",
+        "message": "ei hörmal das ist wie in einem Supermarkt man nimmt keine Angebrochene ware nach hause"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "30.03.2010 20:22",
+      "date": "30.03.2010",
+      "time": "20:22"
+    },
+    "id": "#295790",
+    "content": [
+      {
+        "type": "message",
+        "username": "schatziii",
+        "message": "hey schatz, was würdest du sagen, wenn ich nurnoch eine minute leben würde?"
+      },
+      {
+        "type": "message",
+        "username": "Hanuta",
+        "message": "59, 58, 57, 56 ..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "30.03.2010 21:09",
+      "date": "30.03.2010",
+      "time": "21:09"
+    },
+    "id": "#295776",
+    "content": [
+      {
+        "type": "message",
+        "username": "Bilbo",
+        "message": "wer kommt denn heut abend zu euch?"
+      },
+      {
+        "type": "message",
+        "username": "Scarya",
+        "message": "Du nicht =)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.04.2010 22:19",
+      "date": "01.04.2010",
+      "time": "22:19"
+    },
+    "id": "#295862",
+    "content": [
+      {
+        "type": "message",
+        "username": "Thom",
+        "message": "Hey Schatz, sag mal hast du schon deine Periode?"
+      },
+      {
+        "type": "message",
+        "username": "Jennie",
+        "message": "Ey gehts noch?!"
+      },
+      {
+        "type": "message",
+        "username": "Jennie",
+        "message": "Das ist voll unhöflich das einfach zu fragen!"
+      },
+      {
+        "type": "message",
+        "username": "Jennie",
+        "message": "Manchmal hab ich das Gefühl, du tickst nicht richtig"
+      },
+      {
+        "type": "message",
+        "username": "Thom",
+        "message": "ein einfaches \"Ja\" hätte auch gereicht... -.-"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.04.2010 22:21",
+      "date": "01.04.2010",
+      "time": "22:21"
+    },
+    "id": "#295914",
+    "content": [
+      {
+        "type": "message",
+        "username": "Tremor",
+        "message": "Meine Kamera ist Mist"
+      },
+      {
+        "type": "message",
+        "username": "Psyman2",
+        "message": "ne, du siehst wirklich so scheiße aus"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.04.2010 10:12",
+      "date": "03.04.2010",
+      "time": "10:12"
+    },
+    "id": "#295949",
+    "content": [
+      {
+        "type": "message",
+        "username": "Funkour",
+        "message": "Meine Bekannte hat Rechner angeworfen und dann seh ich so einen Ordner \"Gorleben\". Ich frag was das soll und sie so \"Da kommen alle Sachen hin wo ich noch nicht weiß wo sie zum schluss hinkommen\" ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.04.2010 10:13",
+      "date": "03.04.2010",
+      "time": "10:13"
+    },
+    "id": "#295951",
+    "content": [
+      {
+        "type": "message",
+        "username": "F84",
+        "message": "Die Zeit die ich unter Windows gebraucht hab um mein System zum Laufen zu bringen brauch ich am Macbook um das Gehäuse sauber zu halten..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.04.2010 21:22",
+      "date": "04.04.2010",
+      "time": "21:22"
+    },
+    "id": "#296134",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sasservirus",
+        "message": "Alles was nichts mit Elephanten zu tun hat ist Irrelephant"
+      }
+    ]
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "date": {
+      "fullDate": "03.11.2005 14:22",
+      "date": "03.11.2005",
+      "time": "14:22"
+    },
+    "id": "#20546",
+    "content": [
+      {
+        "type": "message",
+        "username": "Konso",
+        "message": "Juhu. 96,7 % geladen"
+      },
+      {
+        "type": "message",
+        "username": "Päder",
+        "message": "von?"
+      },
+      {
+        "type": "message",
+        "username": "Konso",
+        "message": "100 %"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.11.2005 22:00",
+      "date": "03.11.2005",
+      "time": "22:00"
+    },
+    "id": "#21389",
+    "content": [
+      {
+        "type": "message",
+        "username": "bleed_ch",
+        "message": "warum kann ich ein prozess mit kill nicht beenden?"
+      },
+      {
+        "type": "message",
+        "username": "bleed_ch&gt; kill &lt;pid",
+        "message": ", passiert aber nichts"
+      },
+      {
+        "type": "message",
+        "username": "CehopS-",
+        "message": "kill -9?"
+      },
+      {
+        "type": "message",
+        "username": "bleed_ch",
+        "message": "wunderbar, wozu ist dieser parameter denn da?"
+      },
+      {
+        "type": "message",
+        "username": "Korsakov",
+        "message": "das bedeutet, dass signal nummer 9 an den prozess geschickt werden soll"
+      },
+      {
+        "type": "message",
+        "username": "Korsakov",
+        "message": "eine auflistung alle signale und ihre nummern bekommst du mit \"man signal\""
+      },
+      {
+        "type": "message",
+        "username": "Korsakov",
+        "message": "standardmäßig verwendet der \"kill\"-Befehl das Signal 15"
+      },
+      {
+        "type": "message",
+        "username": "Korsakov",
+        "message": "also wenn man nichts angibt, dann ist das gleichbedeutend mit kill -15 &lt;pid&gt;"
+      },
+      {
+        "type": "message",
+        "username": "bleed_ch_",
+        "message": "naja aber wenn ein programm nicht mehr antwortet ist doch egal welches signal, antworten wird er ja nicht"
+      },
+      {
+        "type": "message",
+        "username": "Korsakov",
+        "message": "-15 bedeutet \"lieber, lieber prozess, bitte sei jetzt so nett und komme jetzt langsam zum ende, ich möchte dich nicht mehr haben\""
+      },
+      {
+        "type": "message",
+        "username": "Korsakov",
+        "message": "bei -9 zückst du ein messer und schneidest ihm die kehle durch"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:22",
+      "date": "04.11.2005",
+      "time": "08:22"
+    },
+    "id": "#19795",
+    "content": [
+      {
+        "type": "message",
+        "username": "target0815",
+        "message": "bin neulich durch die Stadt gelaufen und mir kam so ein Bänkertyp entgegen. Pinkes Hemd. Die Krawatte dunkelrot. Dann kam ihm, plötzlich, direkt vor mir, ein Windstoss entgegen und das Jacket-futter war auch pink.. Als es durch den Wind aufplatzte, sah der Typ aus, wie eine riesige Elephantenmuschi...Schock"
+      },
+      {
+        "type": "message",
+        "username": "sweet_28",
+        "message": "omg!?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:26",
+      "date": "04.11.2005",
+      "time": "08:26"
+    },
+    "id": "#22592",
+    "content": [
+      {
+        "type": "message",
+        "username": "Mahmoud",
+        "message": "hey  ich  find dich eigentlich ganz süß und würd dich gern mal treffen gibst du                               mir vielleicht mal deine handynummer dann können wir mal ins kino gehen?"
+      },
+      {
+        "type": "message",
+        "username": "hot mama",
+        "message": "kein Problem aber ich muss dir was gestehn!!"
+      },
+      {
+        "type": "message",
+        "username": "hot mama",
+        "message": "1.:  ich bin ein Mann."
+      },
+      {
+        "type": "message",
+        "username": "hot mama",
+        "message": "2.: naja ich bin eigentlich zwei Männer und wir sind im Zimmer über dir und lachen dich aus weil du dich mit uns verabredet hast du \"pimp\"     "
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:31",
+      "date": "04.11.2005",
+      "time": "08:31"
+    },
+    "id": "#19967",
+    "content": [
+      {
+        "type": "message",
+        "username": "matriXcruiser",
+        "message": "es ist wochenende, da reduzier ich meine gehirnleistung von 90% auf 30%...dann spare ich energie, und kann länger auf bleiben"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:37",
+      "date": "04.11.2005",
+      "time": "08:37"
+    },
+    "id": "#19854",
+    "content": [
+      {
+        "type": "message",
+        "username": "JimKnopf",
+        "message": "womit öffnt man .cs dateien?"
+      },
+      {
+        "type": "message",
+        "username": "@GartenHaga",
+        "message": "mit half life"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:45",
+      "date": "04.11.2005",
+      "time": "08:45"
+    },
+    "id": "#20231",
+    "content": [
+      {
+        "type": "message",
+        "username": "@rcp",
+        "message": "früher als ich klein war habe ich die SKL und NKL karten gesammelt, so 12 stück wo überall 12 mio. usw. draufstanden, die anderen kinder dachten ich wär reich"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:46",
+      "date": "04.11.2005",
+      "time": "08:46"
+    },
+    "id": "#21706",
+    "content": [
+      {
+        "type": "message",
+        "username": "ego03",
+        "message": "scheisse...meine pringels sind vom Tisch gefallen, offen. Direkt mit der öffnung in mülleimer."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:47",
+      "date": "04.11.2005",
+      "time": "08:47"
+    },
+    "id": "#19514",
+    "content": [
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "lol freitag so geil"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "ich bei der arbeit"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "steh drüben in der gebrauchtwagenhalle"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "steht da so ein kerl und guckt sich ein auto an"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "ich geh hin und erklär ihm erstmal was der wagen alles hat und so"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "bestimmt 5 min nur am labern"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "und er guckt mich nur so an und sagt"
+      },
+      {
+        "type": "message",
+        "username": "JunTao",
+        "message": "\"sorry i dont speak german\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 08:49",
+      "date": "04.11.2005",
+      "time": "08:49"
+    },
+    "id": "#21082",
+    "content": [
+      {
+        "type": "message",
+        "username": "nick",
+        "message": "ROFL, is echt scheiße, wennde alleine wohnst"
+      },
+      {
+        "type": "message",
+        "username": "nick",
+        "message": "hab grad wen angerufen, da merk ich, dass ich HEISER bin"
+      },
+      {
+        "type": "message",
+        "username": "nick",
+        "message": "hab heute noch kein wort geredet, wusste nicht, dass ich keine stimme hab"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 09:56",
+      "date": "04.11.2005",
+      "time": "09:56"
+    },
+    "id": "#22295",
+    "content": [
+      {
+        "type": "message",
+        "username": "VB",
+        "message": "Also ich war bei der Bundeswehr im Landkreis Y - stand zumindest so an meinem Panzer."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.11.2005 21:37",
+      "date": "04.11.2005",
+      "time": "21:37"
+    },
+    "id": "#20125",
+    "content": [
+      {
+        "type": "message",
+        "username": "Snoap",
+        "message": "geschlechtsumwandlung ist schmerzhaft, das gehirn muss rausgesaugt werden ..."
+      },
+      {
+        "type": "message",
+        "username": "Sarah",
+        "message": "hä ? wie?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.11.2005 15:50",
+      "date": "05.11.2005",
+      "time": "15:50"
+    },
+    "id": "#22457",
+    "content": [
+      {
+        "type": "message",
+        "username": "vortec",
+        "message": "naja ich bereite mich auf den abend vor .. so irgendwie"
+      },
+      {
+        "type": "message",
+        "username": "vortec",
+        "message": "gleich wird gekocht, danach gesoffen, und danach karussell gefahren :)"
+      },
+      {
+        "type": "message",
+        "username": "key",
+        "message": "Grundlage legen, Grundlage zerstören, Grundlage ausbrechen."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.11.2005 15:52",
+      "date": "05.11.2005",
+      "time": "15:52"
+    },
+    "id": "#20823",
+    "content": [
+      {
+        "type": "message",
+        "username": "Matzö",
+        "message": "Ich bin tot. Bluttest beim Arzt:"
+      },
+      {
+        "type": "message",
+        "username": "Matzö",
+        "message": "die haben da was falsch geamcht beim kaliumwert (hoffe ich mal^^)"
+      },
+      {
+        "type": "message",
+        "username": "Matzö",
+        "message": "3,5 - 5 mmol pro liter is normal"
+      },
+      {
+        "type": "message",
+        "username": "Matzö",
+        "message": "bei 7 bleibt das herz stehen"
+      },
+      {
+        "type": "message",
+        "username": "Matzö",
+        "message": "ich hab 20,5 :D"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.11.2005 16:03",
+      "date": "05.11.2005",
+      "time": "16:03"
+    },
+    "id": "#22080",
+    "content": [
+      {
+        "type": "message",
+        "username": "miaby",
+        "message": "Es gibt tatsächlich Menschen, die sich einer Kiste unterlegen fühlen, die gerade mal Null und Eins auseinander halten kann, das aber sehr schnell."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.11.2005 16:06",
+      "date": "05.11.2005",
+      "time": "16:06"
+    },
+    "id": "#22579",
+    "content": [
+      {
+        "type": "message",
+        "username": "master",
+        "message": "Gestern war so geil"
+      },
+      {
+        "type": "message",
+        "username": "master",
+        "message": "schön bei 'nem kollegen einen gesoffen bis der Arzt kam"
+      },
+      {
+        "type": "message",
+        "username": "master",
+        "message": "Aber statt'm Arzt kommen die grünen Männchen, wegen Musik zu laut und bLa"
+      },
+      {
+        "type": "message",
+        "username": "king",
+        "message": "normal halt, so muss party sein :&gt;"
+      },
+      {
+        "type": "message",
+        "username": "master",
+        "message": "Kollege war grad aufm weg zum kotzen, da muss er halt an die Tür, und meint so: 'nen Moment, is grad schlecht"
+      },
+      {
+        "type": "message",
+        "username": "master",
+        "message": "Die beiden so: nee nee nix da, hierbleiben"
+      },
+      {
+        "type": "message",
+        "username": "master",
+        "message": "Er meint noch so, is voll dringend und so, dann kotzt er die beiden von oben bis unten voll :D"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "06.11.2005 16:25",
+      "date": "06.11.2005",
+      "time": "16:25"
+    },
+    "id": "#19877",
+    "content": [
+      {
+        "type": "message",
+        "username": "@MightySCI",
+        "message": "komm ich in die firma... hammse meinen rechner kaputtgemacht während ich im urlaub war"
+      },
+      {
+        "type": "message",
+        "username": "@MightySCI",
+        "message": "und meine maus geklaut und den netzwerkanschluß auch"
+      },
+      {
+        "type": "message",
+        "username": "@DoCFReD",
+        "message": "arbeitsplatzabbau mal anders"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "07.11.2005 00:08",
+      "date": "07.11.2005",
+      "time": "00:08"
+    },
+    "id": "#23177",
+    "content": [
+      {
+        "type": "message",
+        "username": "flo",
+        "message": "boar hab ich klebrige hände"
+      },
+      {
+        "type": "message",
+        "username": "boO",
+        "message": "wichse...?"
+      },
+      {
+        "type": "message",
+        "username": "flo",
+        "message": "was ist wichse"
+      },
+      {
+        "type": "message",
+        "username": "boO",
+        "message": "mom 5 min dann schick ich dir ein foto"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "07.11.2005 07:19",
+      "date": "07.11.2005",
+      "time": "07:19"
+    },
+    "id": "#22959",
+    "content": [
+      {
+        "type": "message",
+        "username": "Seb",
+        "message": "ich hab jetzt ein neues handy"
+      },
+      {
+        "type": "message",
+        "username": "Hellbounty",
+        "message": "klasse. dann kannst du ja wen anrufen, dem das Interresiert"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "07.11.2005 09:55",
+      "date": "07.11.2005",
+      "time": "09:55"
+    },
+    "id": "#21166",
+    "content": [
+      {
+        "type": "message",
+        "username": "TheKar",
+        "message": "wollte grade einen hallern [berl. slang. für kiffen] und konnten nicht!!! Keine Blättchen auf der ganzen TU-Berlin auftreibbar"
+      },
+      {
+        "type": "message",
+        "username": "[ToT]eizi",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "[ToT]eizi",
+        "message": "wie geht das denn?"
+      },
+      {
+        "type": "message",
+        "username": "TheKar",
+        "message": "ich habe ca. 5 leute mit rastas angesprochen"
+      },
+      {
+        "type": "message",
+        "username": "[ToT]eizi",
+        "message": "das is ja als wenns inkreuzberg keine döner mehr findest"
+      }
+    ]
+  }
+]

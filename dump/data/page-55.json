@@ -1,0 +1,572 @@
+[
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:09",
+      "date": "29.05.2005",
+      "time": "21:09"
+    },
+    "id": "#6951",
+    "content": [
+      {
+        "type": "message",
+        "username": "Nils",
+        "message": "alter, ich sah alles nur noch verschwommen, nachdem ich auf mein auge gedrückt habe"
+      },
+      {
+        "type": "message",
+        "username": "Stefan",
+        "message": "okay, warum drückst du auf dein auge?"
+      },
+      {
+        "type": "message",
+        "username": "Nils",
+        "message": "ich wollte gucken, ob ich danach alles verschwommen sehe"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:11",
+      "date": "29.05.2005",
+      "time": "21:11"
+    },
+    "id": "#6956",
+    "content": [
+      {
+        "type": "misc",
+        "text": "_abraxas: boah alter! war ich letztens zuhause, meint meine mutter so \"du hast in der letzten zeit auch nich besonders viel geschlafen\" - ich so: \"ne, wieso\" und sie meint \"kriegst auch schon falten in deinen augenringen\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:11",
+      "date": "29.05.2005",
+      "time": "21:11"
+    },
+    "id": "#6957",
+    "content": [
+      {
+        "type": "message",
+        "username": "+SinnLos",
+        "message": "boar damals war in den Bierflaschen auch noch mehr drin -.-"
+      },
+      {
+        "type": "message",
+        "username": "+SinnLos",
+        "message": "da war in den 0.5er Flaschen nochn Liter"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:15",
+      "date": "29.05.2005",
+      "time": "21:15"
+    },
+    "id": "#6969",
+    "content": [
+      {
+        "type": "misc",
+        "text": "gbib|bat: Früher fand ich zocken am PC echt ne nette Alternative zur Playstation, aber heute - naja - ich sag`s wie es ist: heute würd` ich meinen Rechner ficken, wenn ich könnte."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:16",
+      "date": "29.05.2005",
+      "time": "21:16"
+    },
+    "id": "#6974",
+    "content": [
+      {
+        "type": "misc",
+        "text": "(+GBIB|gooze) ich komm mir immer so bekloppt vor wenn ich krampfhaft versuche hochdeutsch zu reden"
+      },
+      {
+        "type": "misc",
+        "text": "\n(+GBIB|Chip) jetzt musst du dich entscheiden was wichtiger ist, ob du dir bekloppt vorkommst oder ob du uns bekloppt vorkommst"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:17",
+      "date": "29.05.2005",
+      "time": "21:17"
+    },
+    "id": "#6980",
+    "content": [
+      {
+        "type": "misc",
+        "text": "[xinorcimo]: lizer hat heute sicher migraene"
+      },
+      {
+        "type": "misc",
+        "text": "\n[    lizer]: joar, und meine tage"
+      },
+      {
+        "type": "misc",
+        "text": "\n[    lizer]: man koennte sage, ich regle :)"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.05.2005 21:19",
+      "date": "29.05.2005",
+      "time": "21:19"
+    },
+    "id": "#6984",
+    "content": [
+      {
+        "type": "misc",
+        "text": "--&gt; daglara_gel (~storm@D8E9B6C.ACDBE4E4.21E72167.IP) has joined #www.x-fusion.com"
+      },
+      {
+        "type": "misc",
+        "text": "\n--- EBM[Bot] gives voice to daglara_gel"
+      },
+      {
+        "type": "message",
+        "username": "daglara_gel",
+        "message": "EBM[Bot]: Allah Tuttugunu Altin etsin Emii.. Voice(+v) için daglara_gel teþekkür eder :o)     KELEBEK ScripT    "
+      },
+      {
+        "type": "message",
+        "username": "[x]",
+        "message": "hat wer n döner bestellt?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "30.05.2005 18:25",
+      "date": "30.05.2005",
+      "time": "18:25"
+    },
+    "id": "#7016",
+    "content": [
+      {
+        "type": "misc",
+        "text": "kommunikation im gleichen haus über 2 etagen:"
+      },
+      {
+        "type": "message",
+        "username": "irmy610",
+        "message": "kann ich hier die fenster schliessen? oder soll da noch eines offen bleiben?"
+      },
+      {
+        "type": "message",
+        "username": "sysdef",
+        "message": "eh? hab ich die fenster auf gemacht?"
+      },
+      {
+        "type": "message",
+        "username": "irmy610",
+        "message": "zb, die von nikotel?"
+      },
+      {
+        "type": "message",
+        "username": "sysdef",
+        "message": "err"
+      },
+      {
+        "type": "message",
+        "username": "sysdef",
+        "message": "klar"
+      },
+      {
+        "type": "message",
+        "username": "irmy610",
+        "message": "muss ich mich da irgendwo ausloggen?? "
+      },
+      {
+        "type": "message",
+        "username": "sysdef",
+        "message": "nope"
+      },
+      {
+        "type": "message",
+        "username": "sysdef",
+        "message": "dachte du meint die fenster vom wohnzimmer :/"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "30.05.2005 19:17",
+      "date": "30.05.2005",
+      "time": "19:17"
+    },
+    "id": "#7029",
+    "content": [
+      {
+        "type": "misc",
+        "text": "Hero: in den prüfungen von deutsch und mathe am montag und mittwoch"
+      },
+      {
+        "type": "misc",
+        "text": "\nHero: bin ich auch 2 mal (pro prüfung) \"auf klo\" gegangen"
+      },
+      {
+        "type": "misc",
+        "text": "\nHero: denn der öffentliche computerraum ist 20 meter weiter"
+      },
+      {
+        "type": "misc",
+        "text": "\nHero: und dann war ich bei meinem browsergame (ets)"
+      },
+      {
+        "type": "misc",
+        "text": "\nBath: freak..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "30.05.2005 19:58",
+      "date": "30.05.2005",
+      "time": "19:58"
+    },
+    "id": "#7032",
+    "content": [
+      {
+        "type": "message",
+        "username": "TNR",
+        "message": "Hey fatman, was meinst du, als unbeteiligter, zum thema intelligenz?"
+      },
+      {
+        "type": "message",
+        "username": "Fettman",
+        "message": "hä wat wiso"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.05.2005 18:03",
+      "date": "31.05.2005",
+      "time": "18:03"
+    },
+    "id": "#7055",
+    "content": [
+      {
+        "type": "message",
+        "username": "misterx",
+        "message": "ich fühle mich so einsam, ich glaube ich kaufe mir einen hund"
+      },
+      {
+        "type": "message",
+        "username": "Josef",
+        "message": "ich fühle mich so einsam, ich glaube ich kaufe mir eine SUN"
+      },
+      {
+        "type": "message",
+        "username": "misterx",
+        "message": "nein ein hund kann sprechen"
+      },
+      {
+        "type": "message",
+        "username": "Josef",
+        "message": "eine sun kann lieben"
+      },
+      {
+        "type": "message",
+        "username": "misterx",
+        "message": "ein hund kann beißen"
+      },
+      {
+        "type": "message",
+        "username": "Josef",
+        "message": "eine SUN wärmt dich in der Nacht"
+      },
+      {
+        "type": "message",
+        "username": "misterx",
+        "message": "ein hund komm tbei frauen gut an"
+      },
+      {
+        "type": "message",
+        "username": "Josef",
+        "message": "aber du nicht"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.05.2005 18:05",
+      "date": "31.05.2005",
+      "time": "18:05"
+    },
+    "id": "#7059",
+    "content": [
+      {
+        "type": "misc",
+        "text": "kli (~Mr.kot_is@der.geile.macker.im.euirc.net) has quit (Connection reset by peer)"
+      },
+      {
+        "type": "misc",
+        "text": "\nAfflictor: kliese ist also mr kot"
+      },
+      {
+        "type": "misc",
+        "text": "\nAfflictor: sehr interessant"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: Bei uns gibts einen"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: der hat ner Freundinn in die Waschküche gekackt"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: und es dann mit den Hemden ihres Vaters aufgewischt"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: ^_^"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: Seitdem ist es immer sehr pikant wenn man zu ihm sagt"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: Scheiße gelaufen"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: oder"
+      },
+      {
+        "type": "misc",
+        "text": "\nfaradway: shit happens"
+      },
+      {
+        "type": "misc",
+        "text": "\nmash: LOL"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.05.2005 19:50",
+      "date": "31.05.2005",
+      "time": "19:50"
+    },
+    "id": "#7065",
+    "content": [
+      {
+        "type": "message",
+        "username": "PoTTer`fly",
+        "message": "was macht man wenn stimmen aus der box hört"
+      },
+      {
+        "type": "message",
+        "username": "PoTTer`fly",
+        "message": "die sprache abernciht versteht?"
+      },
+      {
+        "type": "message",
+        "username": "White_Nose",
+        "message": "mit dem kiffen aufhören?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.05.2005 22:06",
+      "date": "31.05.2005",
+      "time": "22:06"
+    },
+    "id": "#7074",
+    "content": [
+      {
+        "type": "message",
+        "username": "WilderDudelSack",
+        "message": "btw scho gehört mal da in den usa.. *rauch* nach 10 jahren koma oda so is n kerl wieder aufgewacht Oo das muss derb sein"
+      },
+      {
+        "type": "activity",
+        "username": "nach",
+        "activity": "10 jahren koma oda so is n kerl wieder aufgewacht Oo das muss derb sein"
+      },
+      {
+        "type": "message",
+        "username": "yourcodenameis:killu",
+        "message": "Was'n? Die führen immer noch Krieg, saufen immer noch Pepsi und gut die Hälfte von ihnen ist zu fett, der lebt sich schnell wieder ein."
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.05.2005 22:21",
+      "date": "31.05.2005",
+      "time": "22:21"
+    },
+    "id": "#7093",
+    "content": [
+      {
+        "type": "message",
+        "username": "blub0r",
+        "message": "Wie mache ich mit der Tastatur die römischen Ziffern?"
+      },
+      {
+        "type": "message",
+        "username": "asel",
+        "message": "rofl"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.06.2005 11:19",
+      "date": "01.06.2005",
+      "time": "11:19"
+    },
+    "id": "#7138",
+    "content": [
+      {
+        "type": "message",
+        "username": "fabe-away",
+        "message": "holy shit hab grad was lekeres mit peperoni gemach nurr sollte man danach nich mit die finger in die nase bohren "
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.06.2005 16:19",
+      "date": "01.06.2005",
+      "time": "16:19"
+    },
+    "id": "#7154",
+    "content": [
+      {
+        "type": "message",
+        "username": "[ABI|2005]Xel`matZe",
+        "message": "gestern um 10 hatte ich erstes pilsken auf :D"
+      },
+      {
+        "type": "message",
+        "username": "Deadstar",
+        "message": "so wie es sein soll"
+      },
+      {
+        "type": "message",
+        "username": "Brummi",
+        "message": "hihi"
+      },
+      {
+        "type": "message",
+        "username": "Brummi",
+        "message": "ich hab mir direkt ne flasche sekt gekauft"
+      },
+      {
+        "type": "message",
+        "username": "Brummi",
+        "message": "und dann mit meiner mama leergesoffen"
+      },
+      {
+        "type": "message",
+        "username": "Brummi",
+        "message": "und direkt das sektglas über mein abizeugnis gekippt :D"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.06.2005 20:43",
+      "date": "01.06.2005",
+      "time": "20:43"
+    },
+    "id": "#7172",
+    "content": [
+      {
+        "type": "message",
+        "username": "Bolle",
+        "message": "ich war mal mit meinen eltern auf ner fahrradtour. auf dem weg bin ich vom sattel auf die stange gerutscht. ich meinte so heulend zu meiner mutter \"meine genitalien tun jetzt weh\". dann meinte sie zu mir \"das hast du aber schön gesagt\"."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "02.06.2005 16:51",
+      "date": "02.06.2005",
+      "time": "16:51"
+    },
+    "id": "#7218",
+    "content": [
+      {
+        "type": "message",
+        "username": "lea",
+        "message": "jo muss lernen. will ne 2 in latein ham. "
+      },
+      {
+        "type": "message",
+        "username": "anubis",
+        "message": "lol."
+      },
+      {
+        "type": "message",
+        "username": "anubis",
+        "message": "habt ihr nen mann als Lehrer? "
+      },
+      {
+        "type": "message",
+        "username": "lea",
+        "message": "jo. why? "
+      },
+      {
+        "type": "message",
+        "username": "anubis",
+        "message": "ganz einfach, kurze tops, tiefer auschnitt. 2+ "
+      },
+      {
+        "type": "message",
+        "username": "lea",
+        "message": "-.-"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.06.2005 13:29",
+      "date": "03.06.2005",
+      "time": "13:29"
+    },
+    "id": "#7207",
+    "content": [
+      {
+        "type": "message",
+        "username": "@Boerger",
+        "message": "mensch mensch mensch leute mit keiner ahnung vom fußball lassen sich darüber im fotu forum aus"
+      },
+      {
+        "type": "message",
+        "username": "@Cr0wns|feddich",
+        "message": "wieso was haste denn geschrieben? xD"
+      },
+      {
+        "type": "message",
+        "username": "@Boerger",
+        "message": "-.-"
+      }
+    ]
+  }
+]

@@ -1,0 +1,740 @@
+[
+  {
+    "date": {
+      "fullDate": "09.01.2009 12:13",
+      "date": "09.01.2009",
+      "time": "12:13"
+    },
+    "id": "#235232",
+    "content": [
+      {
+        "type": "message",
+        "username": "her0",
+        "message": "Wenn es kein Fleisch mehr gibt esse ich halt Vegetarier"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.01.2009 10:02",
+      "date": "10.01.2009",
+      "time": "10:02"
+    },
+    "id": "#235294",
+    "content": [
+      {
+        "type": "message",
+        "username": "Vratyas",
+        "message": "so geil eben!"
+      },
+      {
+        "type": "message",
+        "username": "Vratyas",
+        "message": "unterhalt mich mit meiner schwester, hör meinen bruder rufen \"wollt ihr mal was großes sehen?\""
+      },
+      {
+        "type": "message",
+        "username": "Vratyas",
+        "message": "wir rennen runter, dachten, er hätte jetzt irgendwie was spannendes neues gekauft, aber nein, seine Freundin hatte sich nur direkt vor ihm nach vorne gebeugt und er hatte ihr auf den Hintern geglotzt! "
+      },
+      {
+        "type": "message",
+        "username": "Vratyas",
+        "message": "Sie war schon drauf und dran ihm eine runterzuhauen! XD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "11.01.2009 14:31",
+      "date": "11.01.2009",
+      "time": "14:31"
+    },
+    "id": "#235573",
+    "content": [
+      {
+        "type": "message",
+        "username": "nicky",
+        "message": "nein echt nicht. ich lüg dich nicht mehr an!"
+      },
+      {
+        "type": "message",
+        "username": "dynamic",
+        "message": "ja, natürlich"
+      },
+      {
+        "type": "message",
+        "username": "nicky",
+        "message": "im gegensatz zu früher hab ich mich um 360 grad gedreht"
+      },
+      {
+        "type": "message",
+        "username": "nicky",
+        "message": "ehrlich"
+      },
+      {
+        "type": "message",
+        "username": "dynamic",
+        "message": "stimmt"
+      },
+      {
+        "type": "message",
+        "username": "nicky",
+        "message": "siehste ;)"
+      },
+      {
+        "type": "message",
+        "username": "dynamic",
+        "message": "du bist nicht nur verlogen, sondern auch ein sehr, sehr dummer mensch"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.01.2009 19:06",
+      "date": "13.01.2009",
+      "time": "19:06"
+    },
+    "id": "#236078",
+    "content": [
+      {
+        "type": "message",
+        "username": "SargoDarya",
+        "message": "du hast mir gerade nicht nur die Daten von MySQL sondern von dem root server gegeben"
+      },
+      {
+        "type": "message",
+        "username": "SargoDarya",
+        "message": "ich könnt jetzt den Server übernehmen das ist schon klar oder?"
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "jaa **"
+      },
+      {
+        "type": "message",
+        "username": "SargoDarya",
+        "message": "Merks dir für die Zukunft. Ich bin so nett und lösch heute mal ausnahmsweise nur den /var ordner"
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "oO....."
+      },
+      {
+        "type": "message",
+        "username": "SargoDarya",
+        "message": "der /etc lächelt mich auch so ein wenig an."
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "höre auf :/"
+      },
+      {
+        "type": "message",
+        "username": "SargoDarya",
+        "message": "war nur nen joke"
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "gut.."
+      },
+      {
+        "type": "misc",
+        "text": "\n..."
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "DU HAST IHN GELÖSCHT!!!"
+      },
+      {
+        "type": "message",
+        "username": "SargoDarya",
+        "message": "Ich konnt nicht widerstehen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.01.2009 19:46",
+      "date": "13.01.2009",
+      "time": "19:46"
+    },
+    "id": "#235854",
+    "content": [
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "lol alta, du wirst net glauben was grad passiert is"
+      },
+      {
+        "type": "message",
+        "username": "Schoker",
+        "message": "naaaa? :D"
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "ich war inner apotheke und total viele leute da"
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "jedenfalls steht vor mir ne etwas ältere frau mit nem blindenarmband"
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "sie is dran und die etwas junge verkäuferin sucht die medis raus"
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "kommt mit 4 schachteln wieder und will ihr erklären wieviel sie wann nehmen muss"
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "sagt die blinde: \"man das is aber viel zu merken!\""
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "sagt verkäuferin: \"soll ich ihnen einen zettel schreiben damit sie nochmal drauf gucken können?\""
+      },
+      {
+        "type": "message",
+        "username": "DIN",
+        "message": "alta die apotheke hat gebrüllt vor lachen und die verkäuferin wollte wohl im boden verschwinden"
+      },
+      {
+        "type": "message",
+        "username": "Schoker",
+        "message": "xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "14.01.2009 05:52",
+      "date": "14.01.2009",
+      "time": "05:52"
+    },
+    "id": "#236222",
+    "content": [
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "Meine Freundin is voll pissig auf mich"
+      },
+      {
+        "type": "message",
+        "username": "Tee",
+        "message": "??"
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "Hab se gefragt ob wir mal n ruhiges WE machen"
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "Sie: ja klar, was hassn geplant"
+      },
+      {
+        "type": "message",
+        "username": "Chris",
+        "message": "Das wir uns Montag wiedersehen"
+      },
+      {
+        "type": "message",
+        "username": "Tee",
+        "message": "lol"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.01.2009 14:55",
+      "date": "15.01.2009",
+      "time": "14:55"
+    },
+    "id": "#236256",
+    "content": [
+      {
+        "type": "message",
+        "username": "barbie.brutal",
+        "message": "auaaa ich hab mich mim Kajastift verbrannt"
+      },
+      {
+        "type": "message",
+        "username": "Butterkeks",
+        "message": "wtf"
+      },
+      {
+        "type": "message",
+        "username": "barbie.brutal",
+        "message": "ja xD wenn dun kohlkajalstif vorne mittem feuerzeug anzündet xD bzw heiß machst dann hält der länger"
+      },
+      {
+        "type": "message",
+        "username": "Butterkeks",
+        "message": "du bereicherst mein Leben jeden Tag aufs neue "
+      },
+      {
+        "type": "misc",
+        "text": "\n..."
+      },
+      {
+        "type": "message",
+        "username": "barbie.brutal",
+        "message": "auuaaa ich hab haarspray ins auge gekriegt xD"
+      },
+      {
+        "type": "message",
+        "username": "Butterkeks",
+        "message": "es hätte schlimmer sein können"
+      },
+      {
+        "type": "message",
+        "username": "Butterkeks",
+        "message": "du hättest das Feuerzeug anhaben können damit das Haarspray länger hält XD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.01.2009 15:06",
+      "date": "15.01.2009",
+      "time": "15:06"
+    },
+    "id": "#236525",
+    "content": [
+      {
+        "type": "message",
+        "username": "e-thorN.swe",
+        "message": "Ich bin ein Tier im Bett - ich halte Winterschlaf... :D"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.01.2009 20:08",
+      "date": "15.01.2009",
+      "time": "20:08"
+    },
+    "id": "#236253",
+    "content": [
+      {
+        "type": "message",
+        "username": "Dinsch",
+        "message": "hab erdnüsse im zimmer verteilt um die maus anzulocken"
+      },
+      {
+        "type": "message",
+        "username": "Dinsch",
+        "message": "5 minuten später geh ich ins bad,um zu urinieren... und dann komm ich wieder"
+      },
+      {
+        "type": "message",
+        "username": "Dinsch",
+        "message": "setz mich auf meinen platz"
+      },
+      {
+        "type": "message",
+        "username": "Dinsch",
+        "message": "und schau runter"
+      },
+      {
+        "type": "message",
+        "username": "Dinsch",
+        "message": "seh ne erdnuss und denk: wow ne erdnuss...und esse die"
+      },
+      {
+        "type": "message",
+        "username": "Dinsch",
+        "message": "-.-"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.01.2009 20:08",
+      "date": "15.01.2009",
+      "time": "20:08"
+    },
+    "id": "#236530",
+    "content": [
+      {
+        "type": "message",
+        "username": "MarTon",
+        "message": "LOL Heute in der Schule sooo geil..."
+      },
+      {
+        "type": "message",
+        "username": "TonMar",
+        "message": "Wasn passiert?? "
+      },
+      {
+        "type": "message",
+        "username": "MarTon",
+        "message": "Kennst ja mein kumpel [..], den faulen sack?"
+      },
+      {
+        "type": "message",
+        "username": "TonMar",
+        "message": "y"
+      },
+      {
+        "type": "message",
+        "username": "MarTon",
+        "message": "Der hat heute ne buchkritik abgegeben die er ausm internet hat..."
+      },
+      {
+        "type": "message",
+        "username": "TonMar",
+        "message": "und was so schlimm dran?"
+      },
+      {
+        "type": "message",
+        "username": "MarTon",
+        "message": "ES WAR DIESELBE WIE DIE VOM LEHRER!!!!!!!!!!!!!!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "17.01.2009 19:19",
+      "date": "17.01.2009",
+      "time": "19:19"
+    },
+    "id": "#236896",
+    "content": [
+      {
+        "type": "message",
+        "username": "Z",
+        "message": "Es gibt Sätze, da ist man froh, Katzenbesitzer zu sein, wenn man sie ausgesprochen hat."
+      },
+      {
+        "type": "message",
+        "username": "Z",
+        "message": "Sätze wie: \"Kannst du mal deinen Schwanz aus meiner Tasse nehmen?!\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.01.2009 18:13",
+      "date": "22.01.2009",
+      "time": "18:13"
+    },
+    "id": "#237970",
+    "content": [
+      {
+        "type": "message",
+        "username": "Jonnie_b_g00d",
+        "message": "und einer aus meiner klasse hat am we sooo die harte aktion gebracht: "
+      },
+      {
+        "type": "message",
+        "username": "fraggy^de",
+        "message": "?"
+      },
+      {
+        "type": "message",
+        "username": "Jonnie_b_g00d",
+        "message": "der sitzt in der sbahn, gegenüber ne geile tuss, und kurz bevor der aussteigt wirft der ihr sein handy aufn schoß und meint: \"ich hab zwar keine zeit mehr aber ich ruf dich später an\" "
+      },
+      {
+        "type": "message",
+        "username": "Jonnie_b_g00d",
+        "message": "volll hammer"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "24.01.2009 18:31",
+      "date": "24.01.2009",
+      "time": "18:31"
+    },
+    "id": "#238326",
+    "content": [
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "LOL, ich lach mich weg"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Nebenan ist doch so ein kleiner Laden"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Ich hör einen Knall von draußen, schau aus dem Fenster - ist ein Lieferant gegen das Ladenschild gefahren"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Der Besitzer (vom Laden) steht daneben wie der grüne Gnom und regt sich furchtbar auf - wie man den gegen das Schild fahren könne und bla"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Dann meint er: Ich fahre den Wagen raus, sonst machen sie hier noch alles kaputt"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Steigt ein, fährt los - voll gegen das Schild"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Steigt aus .. voll entsetzter Gesichtsausdruck"
+      },
+      {
+        "type": "message",
+        "username": "pius",
+        "message": "Der Lieferant nur ganz trocken: Sehen sie - wieder was gelernt. Ich, dass ich sie nicht fahren lasse und sie, wie ich gegen das Schild gefahren bin"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "24.01.2009 18:35",
+      "date": "24.01.2009",
+      "time": "18:35"
+    },
+    "id": "#238349",
+    "content": [
+      {
+        "type": "message",
+        "username": "Zearan",
+        "message": "und als ich einen meiner kollegen gefragt hab, welchen kaffee ich ihm vom automaten mitbringen soll, sagt der \"mz4\""
+      },
+      {
+        "type": "message",
+        "username": "Zearan",
+        "message": "und nachdem mein ausbilder und ich uns gegenseitig blöd angeguckt haben, meint der \"milch, zucker und dann auf die 4 drücken\""
+      },
+      {
+        "type": "message",
+        "username": "Zearan",
+        "message": "mal wieder typisch techniker: 100%-ig korrekte aussage, absolut unanfechtbar, aber kein mensch kann was mit anfangen..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.01.2009 22:02",
+      "date": "26.01.2009",
+      "time": "22:02"
+    },
+    "id": "#238700",
+    "content": [
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Es gibt Idioten..."
+      },
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Ich steig heut aus dem Bus aus und seh plötzlich so nen komischen Typ an meinem Fahrrad rummachen..."
+      },
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Geh hin und frag: \"Ehm...was machste da?\""
+      },
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Er: \"Mein Fahrradschloss geht nimmer auf, kannste mir helfen?\""
+      },
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Dann ich so: \"Ja warte, ich hab den Schlüssel.\""
+      },
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Er: \"Fett, danke.\""
+      },
+      {
+        "type": "message",
+        "username": "Das ?",
+        "message": "Als ich dann angefangen hab zu lachen, hat er auch gemerkt, was los ist und ist weg gerannt :D."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.01.2009 19:44",
+      "date": "27.01.2009",
+      "time": "19:44"
+    },
+    "id": "#238913",
+    "content": [
+      {
+        "type": "message",
+        "username": "Maurice",
+        "message": "Schon die Mail zur Projekt Prio gelesen?"
+      },
+      {
+        "type": "message",
+        "username": "Maurice",
+        "message": "„... daher ist das BI-Projekt so wichtig das die Arbeit daran nicht für wichtigere Projekte unterbrochen werden darf.“"
+      },
+      {
+        "type": "message",
+        "username": "Roy",
+        "message": "Grossartig ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.01.2009 10:11",
+      "date": "31.01.2009",
+      "time": "10:11"
+    },
+    "id": "#239491",
+    "content": [
+      {
+        "type": "message",
+        "username": "traktork",
+        "message": "Hey! Gestern hat mir eine ihre Nummer gegeben :D :D D :D"
+      },
+      {
+        "type": "message",
+        "username": "traktork&gt;Wobei,..genauer gesagt die von Ihrem Anwalt ",
+        "message": ".&lt;"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "31.01.2009 13:05",
+      "date": "31.01.2009",
+      "time": "13:05"
+    },
+    "id": "#239522",
+    "content": [
+      {
+        "type": "message",
+        "username": "Suzzy",
+        "message": "boha der hammer.. meine Ma arbeitet ja inner Kinderarztpraxis ne?"
+      },
+      {
+        "type": "message",
+        "username": "DobbZ",
+        "message": "jo"
+      },
+      {
+        "type": "message",
+        "username": "Suzzy",
+        "message": "und da müssen die mit den kids ja auch so sehtests unso machen ... naja, hatte se da nen kleinen Jungen, 2 klasse oder so, und der machte das ganz gut, bis er irgendwann anfing zu stocken. also so plötzlich kam garnichts mehr und er wurde voll nervös"
+      },
+      {
+        "type": "message",
+        "username": "Suzzy",
+        "message": "und sie so: ist nich schlimm, wenn du's nich erkennen kannst. wo genau ist denn das problem?"
+      },
+      {
+        "type": "message",
+        "username": "Suzzy",
+        "message": "der Junge voll verzweifelt: \"Ich kann das erkennen, aber wir hatten den Buchstaben noch nicht\""
+      },
+      {
+        "type": "message",
+        "username": "Suzzy",
+        "message": "ich hab so gelacht"
+      },
+      {
+        "type": "message",
+        "username": "DobbZ",
+        "message": "XD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.02.2009 09:07",
+      "date": "01.02.2009",
+      "time": "09:07"
+    },
+    "id": "#239540",
+    "content": [
+      {
+        "type": "message",
+        "username": "Don Matthias",
+        "message": "Es werden auch mehr Leute von herabfallenden Haien erschlagen als von Kokosnüssen gefressen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.02.2009 09:09",
+      "date": "01.02.2009",
+      "time": "09:09"
+    },
+    "id": "#239628",
+    "content": [
+      {
+        "type": "message",
+        "username": "dymom",
+        "message": "eben auf radio cds so geil"
+      },
+      {
+        "type": "message",
+        "username": "littleelvis",
+        "message": "was?"
+      },
+      {
+        "type": "message",
+        "username": "dymom",
+        "message": "da gibts ja immer so wunschhits"
+      },
+      {
+        "type": "message",
+        "username": "dymom",
+        "message": "und da ruft so ne frau an"
+      },
+      {
+        "type": "message",
+        "username": "littleelvis",
+        "message": "jo"
+      },
+      {
+        "type": "message",
+        "username": "dymom",
+        "message": "und sagt: ich hab gestern nen geldbeutel gefunden mit 500€ drin"
+      },
+      {
+        "type": "message",
+        "username": "dymom",
+        "message": "darin war eine vistenkarte auf der Bernard L. aus G. stand"
+      },
+      {
+        "type": "message",
+        "username": "dymom",
+        "message": "bitte spielen sie doch irgendein schönes lied für den"
+      },
+      {
+        "type": "message",
+        "username": "littleelvis",
+        "message": "owned"
+      }
+    ]
+  }
+]

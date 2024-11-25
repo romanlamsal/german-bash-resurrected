@@ -1,0 +1,527 @@
+[
+  {
+    "date": {
+      "fullDate": "28.09.2004 14:50",
+      "date": "28.09.2004",
+      "time": "14:50"
+    },
+    "id": "#48",
+    "content": [
+      {
+        "type": "misc",
+        "text": "Kauan changed the topic of #korn2 to: wer mich ?ndert ist doof."
+      },
+      {
+        "type": "misc",
+        "text": "\nKauan changed the topic of #korn2 to: wer mich aendert ist doof."
+      },
+      {
+        "type": "message",
+        "username": "xyzed",
+        "message": "HAHA"
+      },
+      {
+        "type": "message",
+        "username": "xyzed",
+        "message": "LOOOOOOL"
+      },
+      {
+        "type": "message",
+        "username": "xyzed",
+        "message": "Kauan, eigentor ::D"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 15:41",
+      "date": "28.09.2004",
+      "time": "15:41"
+    },
+    "id": "#105",
+    "content": [
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "ups ich glaub ich hab mir grad ein feind gemacht"
+      },
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "so ein komischer veraffter aus meiner icq liste fragt mich grad was man bei linux machen muß wenn man das installiert und eingerichtet hat und ich mein so aus spaß \"rm -rf /\" und der hats mir irgendwie geglaubt"
+      },
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "ok das war die letzte bofh tat heute jetzt gehts für mich ins bett"
+      },
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "n8 leute"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 18:07",
+      "date": "28.09.2004",
+      "time": "18:07"
+    },
+    "id": "#255",
+    "content": [
+      {
+        "type": "message",
+        "username": "Phoenyx",
+        "message": "ich steh net so auf haaren zwischen den zähnen ..."
+      },
+      {
+        "type": "message",
+        "username": "Catweazle",
+        "message": "nimms gebiss raus ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 19:59",
+      "date": "28.09.2004",
+      "time": "19:59"
+    },
+    "id": "#657",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "SIms hat WinXP getötet"
+      },
+      {
+        "type": "message",
+        "username": "Keeper",
+        "message": "Hurraa 100 Punkte für die SIMS"
+      },
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "komplett, erst Bluesceen und jetzt bootet er nimmer"
+      },
+      {
+        "type": "message",
+        "username": "Keeper",
+        "message": "Hum"
+      },
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "wow."
+      },
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "was fürn tolles Spiel"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "muss ich haben"
+      },
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "ich bins eigentlich nur gewöhnt dass Polygone explodieren, nicht ganze Rechner"
+      },
+      {
+        "type": "message",
+        "username": "Keeper",
+        "message": "Aber ich mein, also... Das kannst fei leichter haben das mit XP schrotten, musst nich zwingend ein 2Gig spiel installieren dafür"
+      },
+      {
+        "type": "message",
+        "username": "Keeper",
+        "message": "aber ist ma Kreativ ;P"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "cooles programm"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "zerschiesst selektiv windows laesst aber den rest in ruhe"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 22:08",
+      "date": "28.09.2004",
+      "time": "22:08"
+    },
+    "id": "#343",
+    "content": [
+      {
+        "type": "message",
+        "username": "Melle25",
+        "message": "die frauen sind eigentlich ganz einfach gestrickt"
+      },
+      {
+        "type": "message",
+        "username": "herzel[afk]",
+        "message": "jepp"
+      },
+      {
+        "type": "message",
+        "username": "Melle25",
+        "message": "nur ihr männer denkt immer, sie wären das nicht"
+      },
+      {
+        "type": "message",
+        "username": "herzel[afk]",
+        "message": "seit willig u alles ist gut"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 00:29",
+      "date": "29.09.2004",
+      "time": "00:29"
+    },
+    "id": "#733",
+    "content": [
+      {
+        "type": "message",
+        "username": "Kampfwurst",
+        "message": "ähm ich bin ein totaler neuling auf dem gebiet hacken und wollt ma wissen was ihr so zum einsteigen empfehlt"
+      },
+      {
+        "type": "message",
+        "username": "Bra|homework",
+        "message": "Einen Strick und nen hohen Baum -.-"
+      },
+      {
+        "type": "message",
+        "username": "Kampfwurst",
+        "message": "des is natürlich auch ne variante ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 00:30",
+      "date": "29.09.2004",
+      "time": "00:30"
+    },
+    "id": "#740",
+    "content": [
+      {
+        "type": "message",
+        "username": "Nathaniel",
+        "message": "spannend: In der Volksheilkunde wurde Hopfentee \"Jugendlichen angeraten, um die Onanie aufzugeben\"."
+      },
+      {
+        "type": "message",
+        "username": "Apex",
+        "message": "hopfentee = warmes bier?"
+      },
+      {
+        "type": "message",
+        "username": "Grondolf",
+        "message": "Hopfentee= warmes Bier ?"
+      },
+      {
+        "type": "message",
+        "username": "Gungnir",
+        "message": "rofl"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 00:33",
+      "date": "29.09.2004",
+      "time": "00:33"
+    },
+    "id": "#195",
+    "content": [
+      {
+        "type": "message",
+        "username": "Dunkelheit",
+        "message": "lol auf pro 7 die vc"
+      },
+      {
+        "type": "message",
+        "username": "Dunkelheit",
+        "message": "die fressen alles"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "dann schick sie mal vorbei, ich habe dicke eier"
+      },
+      {
+        "type": "message",
+        "username": "Dunkelheit",
+        "message": "käfer, frösche, wanzen, heuschrecken,"
+      },
+      {
+        "type": "message",
+        "username": "Dunkelheit",
+        "message": "ekelhaaft"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "ideal, die kann ich mal hier durchs zimmer rennen lassen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 00:33",
+      "date": "29.09.2004",
+      "time": "00:33"
+    },
+    "id": "#430",
+    "content": [
+      {
+        "type": "message",
+        "username": "button",
+        "message": "angenehm wäre es, wenn beim kneten der brust etwas milch aus ihrem nippel kommen würde"
+      },
+      {
+        "type": "message",
+        "username": "button",
+        "message": "so bräuchte ich mir dann nichts zu trinken mit zu nehmen"
+      },
+      {
+        "type": "message",
+        "username": "button",
+        "message": "oder ich mache vorher etwas kakaopulver drauf"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 00:34",
+      "date": "29.09.2004",
+      "time": "00:34"
+    },
+    "id": "#273",
+    "content": [
+      {
+        "type": "message",
+        "username": "Harsesis",
+        "message": "Hoi ihr, derft ruhig mitknuddeln ^^"
+      },
+      {
+        "type": "message",
+        "username": "Radioactive",
+        "message": "Dich? Ne, danke ^^'"
+      },
+      {
+        "type": "message",
+        "username": "Harsesis",
+        "message": "Radioactive : Nur weil ich 3 Monate net geduscht / gebadet hab? Es gibt Frauen die stinken mehr... ;)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 00:34",
+      "date": "29.09.2004",
+      "time": "00:34"
+    },
+    "id": "#311",
+    "content": [
+      {
+        "type": "message",
+        "username": "BizzyP",
+        "message": "ok...mach ich... beantwortest du mir noch 2 fragen fürs erste?"
+      },
+      {
+        "type": "message",
+        "username": "Mutter",
+        "message": "nein, nur noch eine. die erste hast du gerade vebraten."
+      },
+      {
+        "type": "message",
+        "username": "BizzyP",
+        "message": "ok..ich spar mir die frage mal auf, ok?"
+      },
+      {
+        "type": "message",
+        "username": "Mutter",
+        "message": "gut, das waren zwei fragen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:52",
+      "date": "29.09.2004",
+      "time": "11:52"
+    },
+    "id": "#132",
+    "content": [
+      {
+        "type": "message",
+        "username": "Mac_Fly",
+        "message": "Meine Fenster sind alle transparent. Sonst könnte ich ja net rausgucken ;)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:52",
+      "date": "29.09.2004",
+      "time": "11:52"
+    },
+    "id": "#135",
+    "content": [
+      {
+        "type": "message",
+        "username": "LOD",
+        "message": "wer dich fickt ist nur zu faul zum wichsen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:53",
+      "date": "29.09.2004",
+      "time": "11:53"
+    },
+    "id": "#150",
+    "content": [
+      {
+        "type": "message",
+        "username": "Muddi[optix_and_paras]",
+        "message": "aber eigentlich ist schlaf ja'ne erfindung der bettenindustrie!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:54",
+      "date": "29.09.2004",
+      "time": "11:54"
+    },
+    "id": "#151",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sandy",
+        "message": "Boah! Jetzt bekomm ich aber echt Bock, ein paar Spermatests zu machen!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:54",
+      "date": "29.09.2004",
+      "time": "11:54"
+    },
+    "id": "#153",
+    "content": [
+      {
+        "type": "message",
+        "username": "gea|mur^zOc",
+        "message": "wenn ich diesen peer erwische!! der hat mich aus allen channels gekickt!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:55",
+      "date": "29.09.2004",
+      "time": "11:55"
+    },
+    "id": "#162",
+    "content": [
+      {
+        "type": "message",
+        "username": "gencha^",
+        "message": "rom wurde auch nich an einem tag gecodet :)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:56",
+      "date": "29.09.2004",
+      "time": "11:56"
+    },
+    "id": "#169",
+    "content": [
+      {
+        "type": "message",
+        "username": "Der_Einzige_und_Wahre",
+        "message": "Heh Basta .. bist Du m oder w?"
+      },
+      {
+        "type": "message",
+        "username": "Basta_375",
+        "message": "Hermaphrodit"
+      },
+      {
+        "type": "misc",
+        "text": "\n(Der_Einzige_und_Wahre hat die Verbindung getrennt)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:56",
+      "date": "29.09.2004",
+      "time": "11:56"
+    },
+    "id": "#174",
+    "content": [
+      {
+        "type": "message",
+        "username": "mastaaa",
+        "message": "Nick is registered by someone else."
+      },
+      {
+        "type": "message",
+        "username": "mastaaa",
+        "message": "Ich heiße nicht someone else ... "
+      },
+      {
+        "type": "message",
+        "username": "mastaaa",
+        "message": "Nein ich glaube nicht ... ganz sicher nicht."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.09.2004 11:57",
+      "date": "29.09.2004",
+      "time": "11:57"
+    },
+    "id": "#175",
+    "content": [
+      {
+        "type": "message",
+        "username": "Ionflux",
+        "message": "ionflux@ionflux2 ~ $ man rtfm"
+      },
+      {
+        "type": "message",
+        "username": "Ionflux",
+        "message": "Keine Handbuch-Seite für rtfm"
+      }
+    ]
+  }
+]

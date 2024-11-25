@@ -1,0 +1,697 @@
+[
+  {
+    "date": {
+      "fullDate": "04.10.2006 11:37",
+      "date": "04.10.2006",
+      "time": "11:37"
+    },
+    "id": "#59454",
+    "content": [
+      {
+        "type": "message",
+        "username": "Höbie",
+        "message": "da waren wir letztens mit irgendsonnem umgetüfftelten Auto unterwegs"
+      },
+      {
+        "type": "message",
+        "username": "Höbie",
+        "message": "aller technikschnickschnack reingehaun den du aufen Markt finden kannst"
+      },
+      {
+        "type": "message",
+        "username": "Höbie",
+        "message": "Kam sonne Frauenstimme: Welche Innentemperatur wünschen Sie? und man sollte antworten"
+      },
+      {
+        "type": "message",
+        "username": "Höbie",
+        "message": "Da war ich schon sehr erstaunt..."
+      },
+      {
+        "type": "message",
+        "username": "Höbie",
+        "message": "aber als dann die Tuse vom Navigationssystem: Achtung! in 300 km Stau, sagte"
+      },
+      {
+        "type": "message",
+        "username": "Höbie",
+        "message": "und die Temperatur-Frau mit: Gewünschte Temperatur: Acht Grad, Kühlung wird eingeschaltet. darauf reagierte... "
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.10.2006 11:38",
+      "date": "04.10.2006",
+      "time": "11:38"
+    },
+    "id": "#59461",
+    "content": [
+      {
+        "type": "message",
+        "username": "kLaus",
+        "message": "Heute inner Schule"
+      },
+      {
+        "type": "message",
+        "username": "kLaus",
+        "message": "lehrer: \"Bismarck wird oft als \"das Böse\" mit nur 3 Haaren gemalt. Wer hat denn noch nur 3 Haare?\""
+      },
+      {
+        "type": "message",
+        "username": "kLaus",
+        "message": "Tuse ausm Kurs: \"Homer Simpson?!\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.10.2006 18:14",
+      "date": "04.10.2006",
+      "time": "18:14"
+    },
+    "id": "#59468",
+    "content": [
+      {
+        "type": "message",
+        "username": "klausbyte",
+        "message": "da mein wow server heute lang genug down is könnt ich mich mal wieder waschen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 08:12",
+      "date": "05.10.2006",
+      "time": "08:12"
+    },
+    "id": "#59541",
+    "content": [
+      {
+        "type": "message",
+        "username": "Thundy",
+        "message": "willst du mir nicht eine gute-nacht-geschichte erzählen?"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "hmmm..."
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "es war einmal eine kleine holzkiste"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "und die lief schon seit..."
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "nobbert@holzkiste ~ $ uptime"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "02:01:12 up 38 days, 16:53"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "38tagen durch"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "und plötzlich will Thundy ins bett und der kleine webserver muß ganz alleine weiter daten schaufeln..."
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "da ist der server traurig und gemein und droppt Thundys pakete"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "und am nächsten morgen sind Thundys downloads abgebrochen, keine emails da, IRC hat sich disconnected und die browserstartseite auf www.aol.com gesetzt"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "da freut sich der kleine server"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "und hoffentlich lernt Thundy daraus, daß man nicht vor 0300 ins Bett gehen sollte :)"
+      },
+      {
+        "type": "message",
+        "username": "LeChuck",
+        "message": "trotzdem gute nacht :)"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 09:55",
+      "date": "05.10.2006",
+      "time": "09:55"
+    },
+    "id": "#59609",
+    "content": [
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "ich bin momentan voll geschockt ..."
+      },
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "ich hab mir auf meinem rootserver vor nem jahr mal nen ircd installiert um ein bisserl damit rumzuspielen und zu coden"
+      },
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "heute seh ich durch zufall, das der prozess, der immernoch lief, ne auslastung von über 10% hat .."
+      },
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "also hab ich das erste mal seit nem guten jahr wieder connected"
+      },
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "und was seh ich? über 600 user drauf"
+      },
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "die hingen alle in nem channel #w4r3z rum ... secret und mit key geschützt ..."
+      },
+      {
+        "type": "message",
+        "username": "NF",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "DukeP|work",
+        "message": "hab den prozess jetzt erstmal gekillt"
+      },
+      {
+        "type": "message",
+        "username": "NF",
+        "message": "könnte besser sein"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 11:42",
+      "date": "05.10.2006",
+      "time": "11:42"
+    },
+    "id": "#59713",
+    "content": [
+      {
+        "type": "message",
+        "username": "Schwenn",
+        "message": "stell Dir mal vor, du wachst auf, gehst ins Bad, guckts in den Spiegel und auf Deiner Stirn steht letoH oykoT"
+      },
+      {
+        "type": "message",
+        "username": "meccs",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "Schwenn",
+        "message": "und in deinem Portemonai findest Du die Rechnung über 300 Euro vom Tätovierer...."
+      },
+      {
+        "type": "message",
+        "username": "meccs",
+        "message": "ich glaube das wäre ein guter Grund zum Selbstmord"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 20:24",
+      "date": "05.10.2006",
+      "time": "20:24"
+    },
+    "id": "#59769",
+    "content": [
+      {
+        "type": "message",
+        "username": "H3LL",
+        "message": "Hey Sash, biste net arbeiten ?"
+      },
+      {
+        "type": "message",
+        "username": "Sash",
+        "message": "Nein bin krank geschrieben..."
+      },
+      {
+        "type": "message",
+        "username": "H3LL",
+        "message": "Whatz up ?"
+      },
+      {
+        "type": "message",
+        "username": "Sash",
+        "message": "Habe eine Gehirnerschütterung"
+      },
+      {
+        "type": "message",
+        "username": "H3LL",
+        "message": "Ui, was haste denn gemacht ?"
+      },
+      {
+        "type": "message",
+        "username": "Sash",
+        "message": "Angeblich blöd geguckt"
+      },
+      {
+        "type": "message",
+        "username": "H3LL",
+        "message": "loooool"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 20:24",
+      "date": "05.10.2006",
+      "time": "20:24"
+    },
+    "id": "#59770",
+    "content": [
+      {
+        "type": "message",
+        "username": "sarajo",
+        "message": "hat jemand einen wirksamen tipp gegen fettflecken?"
+      },
+      {
+        "type": "message",
+        "username": "myel",
+        "message": "abnehmen."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 21:45",
+      "date": "05.10.2006",
+      "time": "21:45"
+    },
+    "id": "#59777",
+    "content": [
+      {
+        "type": "message",
+        "username": "%afri",
+        "message": "ich hatte gerade eben nen 7-gänge menü"
+      },
+      {
+        "type": "message",
+        "username": "%afri",
+        "message": "ne pizza und 6 bier :D"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "05.10.2006 21:53",
+      "date": "05.10.2006",
+      "time": "21:53"
+    },
+    "id": "#59831",
+    "content": [
+      {
+        "type": "message",
+        "username": "Hugarrr",
+        "message": "oh man die deutsche post ist wirklich gut..."
+      },
+      {
+        "type": "message",
+        "username": "@dmin",
+        "message": "wieso des?"
+      },
+      {
+        "type": "message",
+        "username": "Hugarrr",
+        "message": "hab mir letzten monat son sau teures puzzle bei ebay ersteigert und ein paar euro für versicherten versand draufgelegt..."
+      },
+      {
+        "type": "message",
+        "username": "Hugarrr",
+        "message": "und das puzzle ist natürlich in seinen einzelnen puzzleteilen in der schachtel angekommen also war das puzzle kaputt, ein paar gespräche später hab ich den kaufpreis von der post erstattet gekriegt, weil der verkäufer freundlicherweise gesagt hat, er hätte das puzzle zusammengesetzt verschickt..."
+      },
+      {
+        "type": "message",
+        "username": "Hugarrr",
+        "message": "ich bin mal ein paar mehr puzzles ersteigern afk :D"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "06.10.2006 16:13",
+      "date": "06.10.2006",
+      "time": "16:13"
+    },
+    "id": "#59986",
+    "content": [
+      {
+        "type": "message",
+        "username": "jimi_henning",
+        "message": "Tampa/Florida: Frau biss einen angreifenden Rottweiler"
+      },
+      {
+        "type": "message",
+        "username": "jimi_henning",
+        "message": "Was sagt man dazu?"
+      },
+      {
+        "type": "message",
+        "username": "jimi_henning",
+        "message": "Der Hund hätte keine Angst zeigen dürfen!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "07.10.2006 09:18",
+      "date": "07.10.2006",
+      "time": "09:18"
+    },
+    "id": "#60026",
+    "content": [
+      {
+        "type": "misc",
+        "text": "Mayday (~dr.mayday@humoristik.uni-heepen.de) Quit (Ping timeout)"
+      },
+      {
+        "type": "misc",
+        "text": "\nMayday (~dr.mayday@humoristik.uni-heepen.de) has joined #lobby"
+      },
+      {
+        "type": "misc",
+        "text": "\nMayday (~dr.mayday@humoristik.uni-heepen.de) Quit (Ping timeout)"
+      },
+      {
+        "type": "misc",
+        "text": "\nMayday (~dr.mayday@humoristik.uni-heepen.de) has joined #lobby"
+      },
+      {
+        "type": "misc",
+        "text": "\nMayday (~dr.mayday@humoristik.uni-heepen.de) Quit (Ping timeout)"
+      },
+      {
+        "type": "misc",
+        "text": "\nMayday (~dr.mayday@humoristik.uni-heepen.de) has joined #lobby"
+      },
+      {
+        "type": "misc",
+        "text": "\nMayday (~dr.mayday@humoristik.uni-heepen.de) Quit (Ping timeout)"
+      },
+      {
+        "type": "message",
+        "username": "fuzzo",
+        "message": "was hatn mayday für ein problem?"
+      },
+      {
+        "type": "message",
+        "username": "werwurm",
+        "message": "vielleicht liegt er gefesselt in seiner wohnung und morst mit dem resetschalter um hilfe?!"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "08.10.2006 14:44",
+      "date": "08.10.2006",
+      "time": "14:44"
+    },
+    "id": "#60113",
+    "content": [
+      {
+        "type": "message",
+        "username": "Y0rn",
+        "message": "Ich hab immer davon geträumt, als Wasser verkleidet in der Nordsee zu schwimmen."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "08.10.2006 16:41",
+      "date": "08.10.2006",
+      "time": "16:41"
+    },
+    "id": "#60162",
+    "content": [
+      {
+        "type": "message",
+        "username": "twiztid",
+        "message": "hab mir milch und kekse geholt ^^"
+      },
+      {
+        "type": "message",
+        "username": "Ice*baby",
+        "message": "lol süß"
+      },
+      {
+        "type": "message",
+        "username": "twiztid",
+        "message": "naja eigentlich n bier und ne wurst, aber find die symbolik so cool ^^"
+      },
+      {
+        "type": "message",
+        "username": "Ice*baby",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "08.10.2006 21:48",
+      "date": "08.10.2006",
+      "time": "21:48"
+    },
+    "id": "#60246",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sam",
+        "message": "alter, hier brennt es!"
+      },
+      {
+        "type": "message",
+        "username": "FiX.2k",
+        "message": "bei euch in der straße?"
+      },
+      {
+        "type": "message",
+        "username": "Sam",
+        "message": "ne, bei uns in der küche!"
+      },
+      {
+        "type": "message",
+        "username": "FiX.2k",
+        "message": "warum hockst du dann noch vor dem pc?"
+      },
+      {
+        "type": "message",
+        "username": "Sam",
+        "message": "backupfestplatte retten, falls das ganze hause abbrennt"
+      },
+      {
+        "type": "message",
+        "username": "FiX.2k",
+        "message": "o.O"
+      },
+      {
+        "type": "message",
+        "username": "Sam",
+        "message": "so, afk"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "08.10.2006 22:27",
+      "date": "08.10.2006",
+      "time": "22:27"
+    },
+    "id": "#60249",
+    "content": [
+      {
+        "type": "message",
+        "username": "sChAnDmAuL",
+        "message": "wieso ich verdien mein Geld ^^"
+      },
+      {
+        "type": "message",
+        "username": "Bjoern",
+        "message": "ich auch aber nur bei ebay"
+      },
+      {
+        "type": "message",
+        "username": "sChAnDmAuL",
+        "message": "ja aber du kannst ned von dir behaupten dass du n Job mit variablen Arbeitszeiten hast ;D"
+      },
+      {
+        "type": "message",
+        "username": "Bjoern",
+        "message": "naja, ich kann festlegen, wann die auktion ausläuft"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "08.10.2006 22:57",
+      "date": "08.10.2006",
+      "time": "22:57"
+    },
+    "id": "#60255",
+    "content": [
+      {
+        "type": "message",
+        "username": "@VajaconDios",
+        "message": "war letztens beim arzt"
+      },
+      {
+        "type": "message",
+        "username": "@VajaconDios",
+        "message": "hab gesagt das mir alles weh tut und ich mich überhaupt ned fühle"
+      },
+      {
+        "type": "message",
+        "username": "@VajaconDios",
+        "message": "und er meint ich soll ma blumenerde ins bett schütten"
+      },
+      {
+        "type": "message",
+        "username": "@VajaconDios",
+        "message": "und das hilft , frag ich ?"
+      },
+      {
+        "type": "message",
+        "username": "@VajaconDios",
+        "message": "nee, aber dann können sie sich schon mal dran gewöhnen :&gt;"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.10.2006 02:37",
+      "date": "09.10.2006",
+      "time": "02:37"
+    },
+    "id": "#60306",
+    "content": [
+      {
+        "type": "message",
+        "username": "Soldier``",
+        "message": "Kann man C++ als Fremdsprache in ne Bewerbung schreiben?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.10.2006 11:31",
+      "date": "09.10.2006",
+      "time": "11:31"
+    },
+    "id": "#60418",
+    "content": [
+      {
+        "type": "message",
+        "username": "zensiert",
+        "message": "und dieses antivir mit dem roten regenschirm das war auch schonmal aufm rechner nur das hat sooo genervt weil der ständig was angezeigt hat"
+      },
+      {
+        "type": "message",
+        "username": "zensiert",
+        "message": "immer dieses piepen"
+      },
+      {
+        "type": "message",
+        "username": "F!int",
+        "message": "Ja, das tut der immer wenn er einen Virus/Trojaner gefunden hat."
+      },
+      {
+        "type": "message",
+        "username": "zensiert",
+        "message": "ich konnte gar nix mehr machen weil der hat mich jede sekunde angepiept"
+      },
+      {
+        "type": "message",
+        "username": "F!int",
+        "message": "Das ist ein schlechtes Zeichen."
+      },
+      {
+        "type": "message",
+        "username": "zensiert",
+        "message": "ich konnte nur noch entfernen drücken aber geholfen hat das wirklich nichts"
+      },
+      {
+        "type": "message",
+        "username": "F!int",
+        "message": "Wie lange ist das her?"
+      },
+      {
+        "type": "message",
+        "username": "zensiert",
+        "message": "das ist wenns hochkommt ein monat her"
+      },
+      {
+        "type": "message",
+        "username": "F!int",
+        "message": "Und dann hast Du AntiVir deinstalliert?"
+      },
+      {
+        "type": "message",
+        "username": "zensiert",
+        "message": "ja mein freund weil der sobald der pc an war sofort wieder losgepiept hat"
+      },
+      {
+        "type": "message",
+        "username": "F!int",
+        "message": "O.O"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.10.2006 07:28",
+      "date": "10.10.2006",
+      "time": "07:28"
+    },
+    "id": "#60486",
+    "content": [
+      {
+        "type": "message",
+        "username": "LadyIlana",
+        "message": "ich hab mal unter ne reli arbeit geschrieben \"gott weiss alles ich weiss nix\" .... was kam zurück \" gott bekommt ne 1 und du ne 6!\""
+      }
+    ]
+  }
+]

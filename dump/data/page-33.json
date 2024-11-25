@@ -1,0 +1,626 @@
+[
+  {
+    "date": {
+      "fullDate": "19.01.2005 22:09",
+      "date": "19.01.2005",
+      "time": "22:09"
+    },
+    "id": "#2340",
+    "content": [
+      {
+        "type": "message",
+        "username": "tradiaz",
+        "message": "ich muss das jetzt tun : ist auf deinem desktop ein buntes festplatten-icon , unter dem hda1 oder so steht ?"
+      },
+      {
+        "type": "message",
+        "username": "_LSVM",
+        "message": "ja!"
+      },
+      {
+        "type": "message",
+        "username": "tradiaz",
+        "message": "klick da drauf"
+      },
+      {
+        "type": "message",
+        "username": "_LSVM",
+        "message": "hda2"
+      },
+      {
+        "type": "message",
+        "username": "_LSVM",
+        "message": "hda5"
+      },
+      {
+        "type": "message",
+        "username": "_LSVM",
+        "message": "und hda6 is auch noch da!"
+      },
+      {
+        "type": "message",
+        "username": "tradiaz",
+        "message": "und worauf hast du Suse jetzt installiert ?"
+      },
+      {
+        "type": "message",
+        "username": "_LSVM",
+        "message": "auf c:\\"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "20.01.2005 19:16",
+      "date": "20.01.2005",
+      "time": "19:16"
+    },
+    "id": "#2349",
+    "content": [
+      {
+        "type": "message",
+        "username": "Fahrertuer",
+        "message": "weißt du wie man jäger von klon-schaafen nennt?"
+      },
+      {
+        "type": "message",
+        "username": "noeschi",
+        "message": "*?*"
+      },
+      {
+        "type": "message",
+        "username": "noeschi",
+        "message": "nö...aber duwirst es mir sagen?"
+      },
+      {
+        "type": "message",
+        "username": "Fahrertuer",
+        "message": "dolly-buster"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.01.2005 13:46",
+      "date": "21.01.2005",
+      "time": "13:46"
+    },
+    "id": "#2359",
+    "content": [
+      {
+        "type": "misc",
+        "text": "[PanZerschreck]: ich hab drei haare auf der brust ich bin ein baer "
+      },
+      {
+        "type": "misc",
+        "text": "\n[@Bounty`]: ich hab 17, werwolf "
+      },
+      {
+        "type": "misc",
+        "text": "\n[RuSh`HotShot]: hrhr ich hab 1337 haare :D "
+      },
+      {
+        "type": "misc",
+        "text": "\n[RuSh`HotShot]: was bin ich? :&gt; "
+      },
+      {
+        "type": "misc",
+        "text": "\n[Pharox`afk]: du bist eklig"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.01.2005 17:09",
+      "date": "21.01.2005",
+      "time": "17:09"
+    },
+    "id": "#2353",
+    "content": [
+      {
+        "type": "activity",
+        "username": "*froi",
+        "activity": "*"
+      },
+      {
+        "type": "misc",
+        "text": "\n{@RvR} gehts endlich?"
+      },
+      {
+        "type": "misc",
+        "text": "\n{+Calaelen} jo^^"
+      },
+      {
+        "type": "misc",
+        "text": "\n{@RvR} wat war falsch?"
+      },
+      {
+        "type": "misc",
+        "text": "\n{+Calaelen} die Fernbedienung hatte keine batterien ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.01.2005 01:06",
+      "date": "22.01.2005",
+      "time": "01:06"
+    },
+    "id": "#2367",
+    "content": [
+      {
+        "type": "message",
+        "username": "Antai|geplatzt",
+        "message": "leute mal ne doofe Frage, aber wie kriegt man getrocknetes Blut wieder aus den haaren?"
+      },
+      {
+        "type": "message",
+        "username": "@hackel",
+        "message": "Getrocknetes Blut? *ROFL*"
+      },
+      {
+        "type": "message",
+        "username": "@hackel",
+        "message": "Wie alt war sie denn? *eg*"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.01.2005 02:49",
+      "date": "22.01.2005",
+      "time": "02:49"
+    },
+    "id": "#2364",
+    "content": [
+      {
+        "type": "message",
+        "username": "subbi",
+        "message": "irgendwer hierdrin wird doch ahnung haben -,-"
+      },
+      {
+        "type": "message",
+        "username": "Woody4u",
+        "message": "schau mal in #linux.de"
+      },
+      {
+        "type": "message",
+        "username": "Woody4u",
+        "message": "evtl. gibts da leute mit ahnung"
+      },
+      {
+        "type": "message",
+        "username": "Woody4u",
+        "message": "hier gibts nur gentoo user ;)"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.01.2005 15:49",
+      "date": "22.01.2005",
+      "time": "15:49"
+    },
+    "id": "#2368",
+    "content": [
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "SilenceX: /j #crackzoolz1,0"
+      },
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "Hrhrhr."
+      },
+      {
+        "type": "misc",
+        "text": "\n-!- TheGeek [***] has left +tuxforum [TheGeek]"
+      },
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "LOL"
+      },
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "Er hats gejoint."
+      },
+      {
+        "type": "message",
+        "username": " SilenceX",
+        "message": "hihi war so klar"
+      },
+      {
+        "type": "misc",
+        "text": "\n-!- TheGeek [***] has joined +tuxforum"
+      },
+      {
+        "type": "message",
+        "username": " TheGeek",
+        "message": "ups falsch gedrückt ..."
+      },
+      {
+        "type": "message",
+        "username": " TheGeek",
+        "message": "naja fremde rechner halt ..."
+      },
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "TheGeek: Jo, der Channel heißt auch #cracktoolz1,0"
+      },
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "TheGeek: Ich hab mich da verschrieben."
+      },
+      {
+        "type": "message",
+        "username": " RvB",
+        "message": "Also nich zoolz."
+      },
+      {
+        "type": "misc",
+        "text": "\n-!- TheGeek [***] has left +tuxforum [TheGeek]"
+      },
+      {
+        "type": "message",
+        "username": " SilenceX",
+        "message": "*rofl*"
+      },
+      {
+        "type": "misc",
+        "text": "\n-!- TheGeek [***] has joined +tuxforum"
+      },
+      {
+        "type": "misc",
+        "text": "\n-!- TheGeek [***] has left +tuxforum [TheGeek]"
+      },
+      {
+        "type": "misc",
+        "text": "\n-!- TheGeek [***] has joined +tuxforum"
+      },
+      {
+        "type": "message",
+        "username": " TheGeek",
+        "message": "welcher server ist der channel #cracktoolz1,0 ?"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.01.2005 17:48",
+      "date": "22.01.2005",
+      "time": "17:48"
+    },
+    "id": "#2370",
+    "content": [
+      {
+        "type": "misc",
+        "text": "(Aus dem Leben eines gentoo Users)"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      },
+      {
+        "type": "message",
+        "username": "Treibholz",
+        "message": "oh, update für xorg...."
+      },
+      {
+        "type": "message",
+        "username": "Treibholz",
+        "message": "und openoffice :-)"
+      },
+      {
+        "type": "message",
+        "username": "Treibholz",
+        "message": "*heizungrunterdreh*"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "23.01.2005 13:51",
+      "date": "23.01.2005",
+      "time": "13:51"
+    },
+    "id": "#2371",
+    "content": [
+      {
+        "type": "misc",
+        "text": "[@ec\\\\blackacid^e]: dann mach ich mir bisschen 1337schatten drauf"
+      },
+      {
+        "type": "misc",
+        "text": "\n[@ec\\\\blackacid^e]: ich schmink mich ja so gernö"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "23.01.2005 23:07",
+      "date": "23.01.2005",
+      "time": "23:07"
+    },
+    "id": "#2387",
+    "content": [
+      {
+        "type": "misc",
+        "text": " -]AC|Mr.Bingo[-: toll, muss imo it biljdschrmtsttur scgreibeb :P"
+      },
+      {
+        "type": "misc",
+        "text": "\n -]AC|Mr.Bingo[-: rol"
+      },
+      {
+        "type": "misc",
+        "text": "\n -]AC|Mr.Bingo[-: rofl"
+      },
+      {
+        "type": "misc",
+        "text": "\n Com`: und es scheint super zu klappen"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "23.01.2005 23:28",
+      "date": "23.01.2005",
+      "time": "23:28"
+    },
+    "id": "#2388",
+    "content": [
+      {
+        "type": "message",
+        "username": "sTafk`evil",
+        "message": "up = hoch"
+      },
+      {
+        "type": "message",
+        "username": "sTafk`evil",
+        "message": "time = zeit"
+      },
+      {
+        "type": "message",
+        "username": "sTafk`evil",
+        "message": "uptime = O_o"
+      },
+      {
+        "type": "message",
+        "username": "sTafk`evil",
+        "message": "hochzeit?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "24.01.2005 14:48",
+      "date": "24.01.2005",
+      "time": "14:48"
+    },
+    "id": "#2395",
+    "content": [
+      {
+        "type": "message",
+        "username": "Gouken",
+        "message": "tanzen ist der horizontale ausdruck vertikalen verlangens. "
+      },
+      {
+        "type": "message",
+        "username": "eXceL",
+        "message": "ähm es is wenn dann der Vertikale Ausdruck des horizontalen Verlangens oder Fickst du immer im Stehen? Oo"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "24.01.2005 20:26",
+      "date": "24.01.2005",
+      "time": "20:26"
+    },
+    "id": "#2398",
+    "content": [
+      {
+        "type": "message",
+        "username": "fellohrenmuetze",
+        "message": "hmm, kaffee is schon was komisches, da steht man um 9h auf, trinkt nen liter davon, hat seit gestern um 16h nix gegessen und scheisst aber in 3 stunden 4 große haufen... gesund kann des net sein"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "25.01.2005 04:00",
+      "date": "25.01.2005",
+      "time": "04:00"
+    },
+    "id": "#2415",
+    "content": [
+      {
+        "type": "message",
+        "username": "Marylinn",
+        "message": "schau nicht so auf meinen arsch!!!  "
+      },
+      {
+        "type": "message",
+        "username": "eXceL",
+        "message": "hab ich Gar nicht *pfeif* "
+      },
+      {
+        "type": "message",
+        "username": "Marylinn",
+        "message": "dann schau nicht in meinen ausschnitt!"
+      },
+      {
+        "type": "message",
+        "username": "eXceL",
+        "message": "Hab ich auch ned "
+      },
+      {
+        "type": "message",
+        "username": "juli0r",
+        "message": "also ich hab dir in die augen geschaut "
+      },
+      {
+        "type": "message",
+        "username": "Marylinn",
+        "message": "schwuchtel"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "25.01.2005 06:25",
+      "date": "25.01.2005",
+      "time": "06:25"
+    },
+    "id": "#2433",
+    "content": [
+      {
+        "type": "misc",
+        "text": "(+scout314) es sind halt die kleinen dinge die das leben lebenswert machen "
+      },
+      {
+        "type": "misc",
+        "text": "\n(~eXceL) Ja du musst es nur immer wieder sagen scout. Irgendwann glaubt es dir auch eine xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.01.2005 22:30",
+      "date": "26.01.2005",
+      "time": "22:30"
+    },
+    "id": "#2446",
+    "content": [
+      {
+        "type": "misc",
+        "text": " &lt;Horazio&gt; mit 39 fieber sitzt ma nimmer vorm computer"
+      },
+      {
+        "type": "misc",
+        "text": "\n &lt;Taggy&gt; da liegt man mit wlan notebook im bett"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.01.2005 01:48",
+      "date": "27.01.2005",
+      "time": "01:48"
+    },
+    "id": "#2448",
+    "content": [
+      {
+        "type": "message",
+        "username": "scout314",
+        "message": "mh ichn habn lag.... "
+      },
+      {
+        "type": "message",
+        "username": "scout314",
+        "message": "ich kotz gleich "
+      },
+      {
+        "type": "message",
+        "username": "scout314",
+        "message": "oh gott ich bin so dumm...ich hatte keinen lag ich hab vergessen wieder runter zu scrollen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.01.2005 19:56",
+      "date": "28.01.2005",
+      "time": "19:56"
+    },
+    "id": "#2464",
+    "content": [
+      {
+        "type": "message",
+        "username": "[ufoi]Grabi",
+        "message": "kennt jemand nochmal die seite womit man bilder hochlöaden kann?"
+      },
+      {
+        "type": "message",
+        "username": "Nukel",
+        "message": "www.seitewomanbilderhochladenkann.de"
+      },
+      {
+        "type": "message",
+        "username": "[ufoi]Grabi",
+        "message": "thx"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.01.2005 15:14",
+      "date": "29.01.2005",
+      "time": "15:14"
+    },
+    "id": "#2471",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sir_Tobi",
+        "message": "Das mit den Stellenstreichungen trotz traumhaften Profiten geht solange gut, bis die Leute sich daran erinnern was man mit ein paar Mistgabeln und Fackeln feines machen kann."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.01.2005 15:48",
+      "date": "29.01.2005",
+      "time": "15:48"
+    },
+    "id": "#2472",
+    "content": [
+      {
+        "type": "message",
+        "username": "eXceL",
+        "message": "Ich hab mich gerade beim Rasieren geschnitten Scheiße ned noch ma "
+      },
+      {
+        "type": "message",
+        "username": "Marylinn",
+        "message": "och je *blut ableck* *kuss draufdrück* "
+      },
+      {
+        "type": "activity",
+        "username": "*kuss",
+        "activity": "draufdrück* "
+      },
+      {
+        "type": "message",
+        "username": "Marylinn",
+        "message": "warte, ... "
+      },
+      {
+        "type": "message",
+        "username": "Marylinn",
+        "message": "wo hast du dich rasiert?"
+      }
+    ]
+  }
+]

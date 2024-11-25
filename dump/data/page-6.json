@@ -1,0 +1,634 @@
+[
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:20",
+      "date": "27.09.2004",
+      "time": "22:20"
+    },
+    "id": "#168",
+    "content": [
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "ahh ich krieg hier noch nen föhn ich räum auf und räum auf und räum auf und es kommt einfach immer nur immer ältere scheiße raus ich hab grad mein HUS heft aus der 3. KLasse gefunden"
+      },
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "da hab ich ne 1-2 man"
+      },
+      {
+        "type": "message",
+        "username": "Marx^",
+        "message": "hat meine mutter für mich gemacht"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:25",
+      "date": "27.09.2004",
+      "time": "22:25"
+    },
+    "id": "#67",
+    "content": [
+      {
+        "type": "message",
+        "username": "Vortec",
+        "message": "mhm.. ne idee wie man am besten ne flooddetection programmieren könnte?"
+      },
+      {
+        "type": "message",
+        "username": "Notze",
+        "message": "einfach jeden user anmucken der den bot anspricht"
+      },
+      {
+        "type": "message",
+        "username": "Notze",
+        "message": "weil"
+      },
+      {
+        "type": "message",
+        "username": "Notze",
+        "message": "wenn jemand einen bot anspricht"
+      },
+      {
+        "type": "message",
+        "username": "Notze",
+        "message": "dann mus dem langweilig sein"
+      },
+      {
+        "type": "message",
+        "username": "Notze",
+        "message": "ergo er will flooden"
+      },
+      {
+        "type": "message",
+        "username": "Vortec",
+        "message": "*an kopf fass*"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:26",
+      "date": "27.09.2004",
+      "time": "22:26"
+    },
+    "id": "#386",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "der Hammer war dass ich neulich zur Post gelaufen bin mit nem paket inner hand, gefragt hab was es kostet das zu verschicken, mir zweimal die passende Briefmarke hab geben lassen und das paket dann am nächsten Tag hier zuhause in den Briefkasten geworfen"
+      },
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "Tag später steht es wieder hier aufm Tisch, mit dem Vermerk \\\"unterfrankiert\\\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:29",
+      "date": "27.09.2004",
+      "time": "22:29"
+    },
+    "id": "#209",
+    "content": [
+      {
+        "type": "message",
+        "username": "nilss",
+        "message": "hmm, was tu ich am besten auf nen 486="
+      },
+      {
+        "type": "message",
+        "username": "nilss",
+        "message": "?"
+      },
+      {
+        "type": "message",
+        "username": "DJMicro",
+        "message": "auf nem 486er?"
+      },
+      {
+        "type": "message",
+        "username": "DJMicro",
+        "message": "ganz klar"
+      },
+      {
+        "type": "message",
+        "username": "DJMicro",
+        "message": "windows 2003 server"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:31",
+      "date": "27.09.2004",
+      "time": "22:31"
+    },
+    "id": "#216",
+    "content": [
+      {
+        "type": "message",
+        "username": "Jens",
+        "message": "öhm ich krieg meinen away nick nicht weg :)"
+      },
+      {
+        "type": "misc",
+        "text": "\n--&gt; Netsplit central.euirc.net &lt;-&gt; irc.ffm.de.euirc.net quits: Jens|away"
+      },
+      {
+        "type": "message",
+        "username": "nilss",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "Jens",
+        "message": "ah hat sich erledigt"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:32",
+      "date": "27.09.2004",
+      "time": "22:32"
+    },
+    "id": "#222",
+    "content": [
+      {
+        "type": "message",
+        "username": " ForrestGump",
+        "message": "früher fand ich milka gut, aber die haben meine beiden lieblingssorten eingestampft, das kotzt mich an... das ist immer so... wenn ich was mag gibts das bald net mehr"
+      },
+      {
+        "type": "message",
+        "username": "Melapardalis",
+        "message": "magst du windows?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:33",
+      "date": "27.09.2004",
+      "time": "22:33"
+    },
+    "id": "#98",
+    "content": [
+      {
+        "type": "misc",
+        "text": "RainBowBender (holger@euirc-5d68fb96.dip.t-dialin.net) joined #fluchen"
+      },
+      {
+        "type": "message",
+        "username": "RainBowBender",
+        "message": "SCHEISSE WAS DENKEN SICH DIE LEUTE DENN WIEDER FÜR CHANNELS AUS"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:34",
+      "date": "27.09.2004",
+      "time": "22:34"
+    },
+    "id": "#63",
+    "content": [
+      {
+        "type": "message",
+        "username": "kotori",
+        "message": "enthaarungscreme is böse"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "habe mich mal als angehnder wichser in der creme geirrt"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "hat böse spuren an meiner lanze hinterlassen und gebrannt wie sau"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:38",
+      "date": "27.09.2004",
+      "time": "22:38"
+    },
+    "id": "#688",
+    "content": [
+      {
+        "type": "message",
+        "username": "super|sauger",
+        "message": "@redevil: hab ne frage kann ich per PN kommen???"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      },
+      {
+        "type": "misc",
+        "text": "\n[.. jemand sagt, dass redevil ein bot ist ..]"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      },
+      {
+        "type": "message",
+        "username": "super|sauger",
+        "message": "ich weiß; aber redevil hat da ahnung von!!"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:40",
+      "date": "27.09.2004",
+      "time": "22:40"
+    },
+    "id": "#281",
+    "content": [
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "habe meiner mutter heute bier zum muttertag geschenkt"
+      },
+      {
+        "type": "message",
+        "username": "Flowin_Gee",
+        "message": "Ob das das richtige geschenk war ?"
+      },
+      {
+        "type": "message",
+        "username": "schwenger",
+        "message": "ich autobahnblumen.."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:54",
+      "date": "27.09.2004",
+      "time": "22:54"
+    },
+    "id": "#764",
+    "content": [
+      {
+        "type": "message",
+        "username": "*****",
+        "message": "in der office rechtschreibung gibt es den begriff Terroristenvereinigungen hätte ich nicht gedacht"
+      },
+      {
+        "type": "message",
+        "username": "******",
+        "message": "schreibs mal falsch, dann schlägt er dir bestimmt als korrektur \"Microsoft\" vor ;D"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:55",
+      "date": "27.09.2004",
+      "time": "22:55"
+    },
+    "id": "#762",
+    "content": [
+      {
+        "type": "message",
+        "username": "el3veN",
+        "message": "alles kloar"
+      },
+      {
+        "type": "message",
+        "username": "burner",
+        "message": "nöö"
+      },
+      {
+        "type": "message",
+        "username": "burner",
+        "message": "ne innere leere.. und ich weiss nicht, mit was ich die füllen soll... ausser mit bier und UT"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 22:57",
+      "date": "27.09.2004",
+      "time": "22:57"
+    },
+    "id": "#770",
+    "content": [
+      {
+        "type": "activity",
+        "username": "Moo",
+        "activity": "slaps woelfi around a bit with Rätsch Enzyklopedie der psychoaktiven Pflanzen"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": ":)"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "ui my head is spinning :)"
+      },
+      {
+        "type": "message",
+        "username": "Moo",
+        "message": "knie nieder vor der Bibel :P"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "phö *g* du kniest jetzt ne runde strafe aufm Nagelbrett ^^"
+      },
+      {
+        "type": "activity",
+        "username": "du",
+        "activity": "kniest jetzt ne runde strafe aufm Nagelbrett ^^"
+      },
+      {
+        "type": "message",
+        "username": "Moo",
+        "message": "sag mal der auf den nagelbrett unten ist, ist ja voll gefickt :/"
+      },
+      {
+        "type": "activity",
+        "username": "boardy",
+        "activity": "is now known as b|ett"
+      },
+      {
+        "type": "message",
+        "username": "Moo",
+        "message": "wenn man sich das so ausmalt..."
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "joa :)"
+      },
+      {
+        "type": "message",
+        "username": "Moo",
+        "message": "umsolänger der sex umso tiefer im nagelbett  *SIC!*"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "hehe"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "da kriegt man wenigstens deen arsch hoch beim reiten *hüstel*"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "mannn..."
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "ned man"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "*g*"
+      },
+      {
+        "type": "message",
+        "username": "Moo",
+        "message": "und zur strafe bekommst du 120min Sex auf dem Nagelbrett ^^"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "kloar, du liegst aber unten :)"
+      },
+      {
+        "type": "message",
+        "username": "b|ett",
+        "message": "nanana..ab ins query"
+      },
+      {
+        "type": "message",
+        "username": "b|ett",
+        "message": ";P"
+      },
+      {
+        "type": "message",
+        "username": "Moo",
+        "message": "du bist nimma da :P"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "spanner halten bitte die klappe"
+      },
+      {
+        "type": "message",
+        "username": "woelfi",
+        "message": "ich schrei auch ned \"schneller\" wenn ich hinterm strauch hock ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "27.09.2004 23:07",
+      "date": "27.09.2004",
+      "time": "23:07"
+    },
+    "id": "#68",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sorata",
+        "message": "NEEEEEEEEEEEEIIIN"
+      },
+      {
+        "type": "message",
+        "username": "Sorata",
+        "message": "baaaaaaaaaaaaaaaaaaaah"
+      },
+      {
+        "type": "message",
+        "username": "Sorata",
+        "message": "FUCK SHIT MOTHERFUCKER"
+      },
+      {
+        "type": "message",
+        "username": "dcp",
+        "message": "angenehm, mein name is dcp."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 10:15",
+      "date": "28.09.2004",
+      "time": "10:15"
+    },
+    "id": "#77",
+    "content": [
+      {
+        "type": "message",
+        "username": "mattT",
+        "message": "slight: \"tail slight | grep brain\" gibt nur leider nichts aus."
+      },
+      {
+        "type": "message",
+        "username": "slight",
+        "message": "jauu das stimmt ;)"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 13:47",
+      "date": "28.09.2004",
+      "time": "13:47"
+    },
+    "id": "#253",
+    "content": [
+      {
+        "type": "message",
+        "username": "dematz",
+        "message": "zwar isses auch wiederma nur ne \\'heiichgehmascheissenaberwischmirdanachnichdenarschab\\'aktion von microsoft"
+      },
+      {
+        "type": "message",
+        "username": "dematz",
+        "message": "aber immerhin in die klospülrichtung"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 13:50",
+      "date": "28.09.2004",
+      "time": "13:50"
+    },
+    "id": "#227",
+    "content": [
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "ääähm, ich bin kein mann für eine beziehung"
+      },
+      {
+        "type": "message",
+        "username": "Dunkelheit",
+        "message": "i know"
+      },
+      {
+        "type": "message",
+        "username": "martini-on-ice",
+        "message": "mehr so die frau für eine beziehung oder wie?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 13:58",
+      "date": "28.09.2004",
+      "time": "13:58"
+    },
+    "id": "#236",
+    "content": [
+      {
+        "type": "message",
+        "username": "SailorViRuZ",
+        "message": "swiddt ihr was voll geil ist? ein srück schocoladenbrot, cola und mah jonng aufm pc :SD"
+      },
+      {
+        "type": "message",
+        "username": "Sturmflut",
+        "message": "..unf offensichtlich ein Haufen Gras..."
+      },
+      {
+        "type": "message",
+        "username": "SailorViRuZ",
+        "message": "naja, jetzt ists kein haufen mehr ;="
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 14:00",
+      "date": "28.09.2004",
+      "time": "14:00"
+    },
+    "id": "#205",
+    "content": [
+      {
+        "type": "message",
+        "username": "daft_punk",
+        "message": "zu tief ins Glas geschaut wa ;)"
+      },
+      {
+        "type": "message",
+        "username": "hEx",
+        "message": "lol LaVey hat seinen ruf weg :D"
+      },
+      {
+        "type": "message",
+        "username": "LaVey",
+        "message": "nö"
+      },
+      {
+        "type": "message",
+        "username": "pred",
+        "message": "zu tief ins gras geraucht ^^"
+      },
+      {
+        "type": "message",
+        "username": "hEx",
+        "message": "lol"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "28.09.2004 14:00",
+      "date": "28.09.2004",
+      "time": "14:00"
+    },
+    "id": "#496",
+    "content": [
+      {
+        "type": "message",
+        "username": "gencha^",
+        "message": "urintest?"
+      },
+      {
+        "type": "message",
+        "username": "gencha^",
+        "message": "ist das so wie weinprobe?"
+      }
+    ]
+  }
+]

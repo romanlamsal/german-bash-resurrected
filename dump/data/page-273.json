@@ -1,0 +1,640 @@
+[
+  {
+    "date": {
+      "fullDate": "12.09.2010 19:36",
+      "date": "12.09.2010",
+      "time": "19:36"
+    },
+    "id": "#310605",
+    "content": [
+      {
+        "type": "message",
+        "username": "Thunder",
+        "message": "Je mehr Käse, desto mehr Löcher. Je mehr Löcher, desto weniger Käse. Ergo: Je mehr Käse, desto weniger Käse."
+      },
+      {
+        "type": "message",
+        "username": "PillePalle",
+        "message": "aaaaaahjaaaaa ...."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.09.2010 19:43",
+      "date": "12.09.2010",
+      "time": "19:43"
+    },
+    "id": "#310623",
+    "content": [
+      {
+        "type": "message",
+        "username": "willi",
+        "message": "bin aus dem Kurzurlaub zürück !"
+      },
+      {
+        "type": "message",
+        "username": "virus",
+        "message": "\"zürück\" Du warst in der Türkei, nicht wahr."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.09.2010 19:44",
+      "date": "12.09.2010",
+      "time": "19:44"
+    },
+    "id": "#310626",
+    "content": [
+      {
+        "type": "message",
+        "username": "spidey",
+        "message": "letztens beim kumpel war ne bekannte von wem da, vllt 17 oder so."
+      },
+      {
+        "type": "message",
+        "username": "Dani",
+        "message": "heheh^^"
+      },
+      {
+        "type": "message",
+        "username": "spidey",
+        "message": "alle quasseln bissl, dave will sich brote machen, fummelt an so ner wurstpackung rum..."
+      },
+      {
+        "type": "misc",
+        "text": "\ndann sagt die bekannte so: ich bin noch jungfrau."
+      },
+      {
+        "type": "misc",
+        "text": "\nda hat der dave den abend gerissen: zieht nen aufkleber von der packung und klebt den ihr in den schritt. alle kucken doof, sie auch, dave werkelt wieder teilnahmslos seinen broten rum."
+      },
+      {
+        "type": "message",
+        "username": "Dani",
+        "message": "wtf???"
+      },
+      {
+        "type": "message",
+        "username": "spidey",
+        "message": "dachten wir uns auch, dann haben wir gelesen, was auf dem teil stand: 'Frischesiegel für Ihr Fleisch'"
+      },
+      {
+        "type": "message",
+        "username": "Dani",
+        "message": "XXXXD, ich geh kaputt!!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.09.2010 19:49",
+      "date": "12.09.2010",
+      "time": "19:49"
+    },
+    "id": "#310564",
+    "content": [
+      {
+        "type": "message",
+        "username": "DerLothar",
+        "message": "Alter du meckerst doch DAUERND über deine Schwester!"
+      },
+      {
+        "type": "message",
+        "username": "XMaster",
+        "message": "das is ja auch voll die blöde Schlampe"
+      },
+      {
+        "type": "message",
+        "username": "XMaster",
+        "message": "neulich kommt die einfach in mein zimmer und scheuert mir eine"
+      },
+      {
+        "type": "message",
+        "username": "DerLothar",
+        "message": "lol?"
+      },
+      {
+        "type": "message",
+        "username": "XMaster",
+        "message": "ja ohne ein wort zu sagen"
+      },
+      {
+        "type": "activity",
+        "username": "XMaster",
+        "activity": "has quit IRC (und wech)"
+      },
+      {
+        "type": "message",
+        "username": "tine",
+        "message": "Wenn der weiter so einen müll labert geh ich gleich hoch und hau ihm noch eine rein!"
+      },
+      {
+        "type": "message",
+        "username": "DerLothar",
+        "message": "O_O"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.09.2010 23:30",
+      "date": "12.09.2010",
+      "time": "23:30"
+    },
+    "id": "#310589",
+    "content": [
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "haha gestern zu geil"
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "bin ja mit dem marc und seinem alten nachts auf der autobahn zurück"
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "alles frei fahren auch nur brav 120 hinter uns in etwas abstand n anderes auto das genauso schnell faehrt"
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "auf einmal fängt sein vater einfach so zu hupen an"
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "marc fragt so ey warum hupste denn?"
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "\"ja man muss auch mal grundlos dinge tun, hab ich grad bock drauf\""
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "direkt danach, sein vater hupt schon so ca 40 sekunden am stueck"
+      },
+      {
+        "type": "message",
+        "username": "joker",
+        "message": "geht beim auto hinter uns auf einmal blaulicht an xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.09.2010 05:13",
+      "date": "13.09.2010",
+      "time": "05:13"
+    },
+    "id": "#310660",
+    "content": [
+      {
+        "type": "message",
+        "username": "chickenhero",
+        "message": "ich hab mich heute übelst selber geowned -.-"
+      },
+      {
+        "type": "message",
+        "username": "chickenhero",
+        "message": "zu mediamarkt um ein neues headset zu kaufen, weil das mit online-Shop zulange dauert."
+      },
+      {
+        "type": "message",
+        "username": "chickenhero",
+        "message": "ich also mit mutti an der kasse und das headset bezahlt."
+      },
+      {
+        "type": "message",
+        "username": "chickenhero",
+        "message": "da sag ich leise: jetzt schnell ruhestein benutzen und nach hause porten."
+      },
+      {
+        "type": "message",
+        "username": "chickenhero",
+        "message": "als ich gemerkt hatte, was für ein scheiß ich geredet hab, guckte mich meine mutter mit nem wtf-blick an und der kassierer lag am boden vor lachen. er meinte dann nur von wegen scheiß abklingzeit -.-´"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.09.2010 05:15",
+      "date": "13.09.2010",
+      "time": "05:15"
+    },
+    "id": "#310671",
+    "content": [
+      {
+        "type": "message",
+        "username": "dooz",
+        "message": "irgendwie fühl ich mich grad total beschissen und glaube das sich mein herz gleich aufhängt"
+      },
+      {
+        "type": "message",
+        "username": "sirx",
+        "message": "wtf?! was haste gemacht?!"
+      },
+      {
+        "type": "message",
+        "username": "dooz",
+        "message": "3 Kannen Kaffee getrunken"
+      },
+      {
+        "type": "message",
+        "username": "sirx",
+        "message": "wtf?! wieso 3 KANNEN?"
+      },
+      {
+        "type": "message",
+        "username": "dooz",
+        "message": "ja, irgendwie ist meine arbeitseinteilung fürn arsch... "
+      },
+      {
+        "type": "message",
+        "username": "dooz",
+        "message": "zeit für semesterarbeit: 6 Wochen"
+      },
+      {
+        "type": "message",
+        "username": "dooz",
+        "message": "abgabe: in ca. 5 stunden"
+      },
+      {
+        "type": "message",
+        "username": "dooz",
+        "message": "arbeitsfortschritt: ~ 45%"
+      },
+      {
+        "type": "message",
+        "username": "sirx",
+        "message": "-.-*"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.09.2010 05:16",
+      "date": "13.09.2010",
+      "time": "05:16"
+    },
+    "id": "#310678",
+    "content": [
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "alter rate mal was gestern wieder mit paul abging :&gt;"
+      },
+      {
+        "type": "message",
+        "username": "An1maL",
+        "message": "wasn?"
+      },
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "waren uns gestern vor der party schonmal warmtrinken und waren dementsprechend voll hacke... xD "
+      },
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "da paul keine kohle mehr hatte wollte er zur bank sich was abheben"
+      },
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "wir stehen da am geldautomaten und er wollt sich 10€ ziehen.. aber der geldautomat zeigte an das er nur 20€ auszahlen kann"
+      },
+      {
+        "type": "message",
+        "username": "An1maL",
+        "message": "und?"
+      },
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "ja paul wollte halt nur 10€ haben, da kam ich halt auf die idee und mein zu dem \"ey paul ich hab 10€, zieh dir die 20€, dann tauschen wir und du hast deine 10€\""
+      },
+      {
+        "type": "message",
+        "username": "An1maL",
+        "message": "LOL!! und weiter?"
+      },
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "ja paul zieht die 20€, guckt etwas skeptisch auf meinen 10er und meint \"ja ok\""
+      },
+      {
+        "type": "message",
+        "username": "An1maL",
+        "message": "der typ ist so verballert xD"
+      },
+      {
+        "type": "message",
+        "username": "Snex",
+        "message": "naja nicht nur er... ich hab auch erst gerade gemerkt, dass ich 10€ verdient hab xD"
+      },
+      {
+        "type": "message",
+        "username": "An1maL",
+        "message": "omg ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.09.2010 05:17",
+      "date": "13.09.2010",
+      "time": "05:17"
+    },
+    "id": "#310685",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sarah",
+        "message": "Ich bin Halbvegetarierin."
+      },
+      {
+        "type": "message",
+        "username": "Strykor",
+        "message": "Was soll das heißen?"
+      },
+      {
+        "type": "message",
+        "username": "Strykor",
+        "message": "Isst du nur halbe Hähnchen oder wie?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.09.2010 19:09",
+      "date": "13.09.2010",
+      "time": "19:09"
+    },
+    "id": "#310695",
+    "content": [
+      {
+        "type": "message",
+        "username": "schwalu",
+        "message": "mal im ernst.. in den nutzungsbedingungen könnte auch drinstehen \"ich lasse mich freiwillig von blizzard an marokkanische kameltreiber verkaufen und arbeite die nächsten 100 jahre in einer schwefelmine\"  und jeder würde klicken \"ich stimme zu\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.09.2010 19:09",
+      "date": "13.09.2010",
+      "time": "19:09"
+    },
+    "id": "#310703",
+    "content": [
+      {
+        "type": "message",
+        "username": "Tousen",
+        "message": "später = in nem anderem leben? :D"
+      },
+      {
+        "type": "message",
+        "username": "Riina",
+        "message": "später = wenn du mit WoW aufgehört hast"
+      },
+      {
+        "type": "message",
+        "username": "Tousen",
+        "message": "ist ja fast das gleiche"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.09.2010 04:23",
+      "date": "15.09.2010",
+      "time": "04:23"
+    },
+    "id": "#310753",
+    "content": [
+      {
+        "type": "message",
+        "username": "SunnySun",
+        "message": "Boah gestern Mittag im McDonalds - ich konnt nit mehr!"
+      },
+      {
+        "type": "message",
+        "username": "SunnySun",
+        "message": "Saßen da so ein paar Hopper mit ner Teeniemama und dem Säugling am Tisch"
+      },
+      {
+        "type": "message",
+        "username": "SunnySun",
+        "message": "Die Mutter geht iwie weg, kA klo oder so, und kurz darauf fängt das baby an zu schreien"
+      },
+      {
+        "type": "message",
+        "username": "SunnySun",
+        "message": "Der eine Hopper denn zum Baby: \"Ey, Alter! Das kannst du jetzt net bringen!\""
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.09.2010 04:23",
+      "date": "15.09.2010",
+      "time": "04:23"
+    },
+    "id": "#310766",
+    "content": [
+      {
+        "type": "message",
+        "username": "Itze",
+        "message": "hei hir is celine"
+      },
+      {
+        "type": "message",
+        "username": "Fritte",
+        "message": "aha"
+      },
+      {
+        "type": "message",
+        "username": "Fritte",
+        "message": "hast du keinen eigenen icq account?"
+      },
+      {
+        "type": "message",
+        "username": "Itze",
+        "message": "ne"
+      },
+      {
+        "type": "message",
+        "username": "Fritte",
+        "message": "dann schaff dir mal einen an, damit ich dich dann ablehnen kann"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.09.2010 04:27",
+      "date": "15.09.2010",
+      "time": "04:27"
+    },
+    "id": "#310779",
+    "content": [
+      {
+        "type": "message",
+        "username": "EvOlUtIoN",
+        "message": "Mein Rechner damals: 700€"
+      },
+      {
+        "type": "message",
+        "username": "EvOlUtIoN",
+        "message": "Battlefield 2: 45€"
+      },
+      {
+        "type": "message",
+        "username": "EvOlUtIoN",
+        "message": "Vor den türkischen Mitschülern angeben, weil man die arabischen Funksprüche vom dauerzocken auswendig aufsagen kann: unbezahlbar!!!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.09.2010 04:27",
+      "date": "15.09.2010",
+      "time": "04:27"
+    },
+    "id": "#310803",
+    "content": [
+      {
+        "type": "message",
+        "username": "ChipsOfDestiny",
+        "message": "Okay, warum betrügt man im lauf einer realityshow seinen freund und fragt sich dann \"was wenn der das rauskriegt?\""
+      },
+      {
+        "type": "message",
+        "username": "Land-EI",
+        "message": "ROFL"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.09.2010 04:30",
+      "date": "15.09.2010",
+      "time": "04:30"
+    },
+    "id": "#310827",
+    "content": [
+      {
+        "type": "message",
+        "username": "David",
+        "message": "Ich mag Dich so sehr, ich kann unsere Netzteile sehen, wie sie eines Tages nebeneinander in der selben Dreifachsteckdose stecken!"
+      },
+      {
+        "type": "message",
+        "username": "cora",
+        "message": "und der dritte Stecker ist dann für unser erstes Kind reserviert xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.09.2010 03:10",
+      "date": "16.09.2010",
+      "time": "03:10"
+    },
+    "id": "#310856",
+    "content": [
+      {
+        "type": "message",
+        "username": "Tobi",
+        "message": "ich würd sex mit dir haben um zu sagen das ich sex mit ner geilen sau hatte :D"
+      },
+      {
+        "type": "message",
+        "username": "Nickäj.",
+        "message": "Du drückst Dich falsch aus."
+      },
+      {
+        "type": "message",
+        "username": "Nickäj.",
+        "message": "Du würdest jede knallen und hinterher sagen, Du hättest Sex mit 'ner geilen Sau gehabt."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.09.2010 19:47",
+      "date": "16.09.2010",
+      "time": "19:47"
+    },
+    "id": "#310887",
+    "content": [
+      {
+        "type": "message",
+        "username": "Ben",
+        "message": "Meine Freundin sagt ich bin ein schlechter Liebhaber..."
+      },
+      {
+        "type": "message",
+        "username": "Ben",
+        "message": "aber ich finde das kann man nach 15 Sekunden gar nicht beurteilen!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.09.2010 19:48",
+      "date": "16.09.2010",
+      "time": "19:48"
+    },
+    "id": "#310893",
+    "content": [
+      {
+        "type": "message",
+        "username": "Guglehupf",
+        "message": "oh, ich habe einen Beweis gefunden, dass hinter OpenOffice Nerds ohne Leben stecken..."
+      },
+      {
+        "type": "message",
+        "username": "Cornel Peacemaker",
+        "message": "?"
+      },
+      {
+        "type": "message",
+        "username": "Guglehupf",
+        "message": "das Wort Körbchengröße wird rot unterkringelt"
+      },
+      {
+        "type": "message",
+        "username": "Cornel Peacemaker",
+        "message": "LOL"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.09.2010 19:49",
+      "date": "16.09.2010",
+      "time": "19:49"
+    },
+    "id": "#310905",
+    "content": [
+      {
+        "type": "message",
+        "username": "Jesus1990",
+        "message": "Hey Alex, Janine is ne alte Schlampe :( die hat grad mit mir Schluss gemacht :( :( :("
+      },
+      {
+        "type": "message",
+        "username": "Alex",
+        "message": "Halt dein Maul und hör auf meine neue Freundin zu beleidigen!!!"
+      }
+    ]
+  }
+]

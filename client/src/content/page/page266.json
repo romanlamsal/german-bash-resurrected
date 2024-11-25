@@ -1,0 +1,530 @@
+[
+  {
+    "date": {
+      "fullDate": "02.06.2010 18:00",
+      "date": "02.06.2010",
+      "time": "18:00"
+    },
+    "id": "#302211",
+    "content": [
+      {
+        "username": "Dr.Idle",
+        "message": "hmm.. lecker Hummer!"
+      },
+      {
+        "username": "Steffy",
+        "message": "ich esse kein Hummer, weil der ja noch lebt wenn man ihn tötet!"
+      },
+      {
+        "username": "Dr. Idle",
+        "message": "Oo"
+      },
+      {
+        "username": "Dr. Idle",
+        "message": "ahaa.."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "03.06.2010 22:25",
+      "date": "03.06.2010",
+      "time": "22:25"
+    },
+    "id": "#302276",
+    "content": [
+      {
+        "username": "mjfm",
+        "message": "sulti"
+      },
+      {
+        "username": "mjfm",
+        "message": "ich brauch hilfe"
+      },
+      {
+        "username": "mjfm",
+        "message": "meine freundin hat mich verlassen .."
+      },
+      {
+        "username": "sulti",
+        "message": "brauchstn snickers ?"
+      },
+      {
+        "username": "mjfm",
+        "message": "???"
+      },
+      {
+        "username": "sulti",
+        "message": "damit du wenigstens einmal im leben nüsse hast..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "04.06.2010 09:29",
+      "date": "04.06.2010",
+      "time": "09:29"
+    },
+    "id": "#302250",
+    "content": [
+      {
+        "username": "Felix",
+        "message": "wenn mein laptop heute nicht kommt... dann hat der postbote ein problem"
+      },
+      {
+        "username": "Felix",
+        "message": "bzw. zwei probleme"
+      },
+      {
+        "username": "Felix",
+        "message": "problem 1: er wohnt gegenüber von mir"
+      },
+      {
+        "username": "Felix",
+        "message": "problem 2: ich wohne gegenüber von ihm."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "06.06.2010 15:00",
+      "date": "06.06.2010",
+      "time": "15:00"
+    },
+    "id": "#302297",
+    "content": [
+      {
+        "username": "Tackleberry",
+        "message": "wieso antwortest du nicht in Skype? :["
+      },
+      {
+        "username": "tweety100",
+        "message": "Skype stinkt, IRC ist alles was der Mensch braucht."
+      },
+      {
+        "username": "Tackleberry",
+        "message": "IRC kann kein Voice"
+      },
+      {
+        "username": "ChanServ",
+        "message": "gibt Voice-Status an Tackleberry"
+      },
+      {
+        "username": "Linux_Time",
+        "message": "!!11"
+      },
+      {
+        "username": "Tackleberry",
+        "message": "Touché"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.06.2010 06:36",
+      "date": "09.06.2010",
+      "time": "06:36"
+    },
+    "id": "#302394",
+    "content": [
+      {
+        "username": "Ben",
+        "message": "von 0 auf 220 in 2 sekunden"
+      },
+      {
+        "username": "Ben",
+        "message": "das ma gut ne?"
+      },
+      {
+        "username": "auli39",
+        "message": "wasn das? deine waage?"
+      },
+      {
+        "username": "Ben",
+        "message": "alter ... ^^"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "11.06.2010 09:31",
+      "date": "11.06.2010",
+      "time": "09:31"
+    },
+    "id": "#302554",
+    "content": [
+      {
+        "username": "konsumentenkerker",
+        "message": "Halle schöne Frau"
+      },
+      {
+        "username": "loveofice",
+        "message": "hihihi"
+      },
+      {
+        "username": "konsumentenkerker",
+        "message": "ich bin illusionist"
+      },
+      {
+        "username": "loveofice",
+        "message": "ja klar"
+      },
+      {
+        "username": "konsumentenkerker",
+        "message": "ich kann ein körperteil von mir in dir verschwinden lassen"
+      },
+      {
+        "username": "loveofice",
+        "message": "Oo"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "12.06.2010 17:12",
+      "date": "12.06.2010",
+      "time": "17:12"
+    },
+    "id": "#302664",
+    "content": [
+      {
+        "username": "wusel",
+        "message": "wenn man sich die gespräche in den u-bahnen heutzutage anhört meint man das manche menschen die warnung \"bitte zurückbleiben\" etwas zu wörtlich nehmen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "13.06.2010 07:45",
+      "date": "13.06.2010",
+      "time": "07:45"
+    },
+    "id": "#302652",
+    "content": [
+      {
+        "username": "j4nu5",
+        "message": "geschäftsidee: bäckerei, lottoannahmestelle und atelier in einem"
+      },
+      {
+        "username": "j4nu5",
+        "message": "name: brot - lose - kunst"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.06.2010 14:48",
+      "date": "15.06.2010",
+      "time": "14:48"
+    },
+    "id": "#303051",
+    "content": [
+      {
+        "username": "sqall",
+        "message": "uns ist gerade aufgefallen"
+      },
+      {
+        "username": "sqall",
+        "message": "das vb-script keine eigene sprache ist, sondern ein dialekt"
+      },
+      {
+        "username": "sqall",
+        "message": "der von einer kleinen, unbeliebten randgruppe gesprochen wird"
+      },
+      {
+        "username": "sqall",
+        "message": "die gerne eigenständig sein möchte"
+      },
+      {
+        "username": "sqall",
+        "message": "wie bayern"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "15.06.2010 20:12",
+      "date": "15.06.2010",
+      "time": "20:12"
+    },
+    "id": "#306961",
+    "content": [
+      {
+        "username": "Fefe",
+        "message": "oh heute Brasilien gegen Nordkorea"
+      },
+      {
+        "username": "Andreas",
+        "message": "Fefe: Darf Nordkorea ueberhaupt die eigene Haelfte verlassen?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.06.2010 13:28",
+      "date": "16.06.2010",
+      "time": "13:28"
+    },
+    "id": "#303027",
+    "content": [
+      {
+        "username": "Terror",
+        "message": "alter der neue IE is ja mal nicee =D"
+      },
+      {
+        "username": "quorti",
+        "message": "wtf? warum?"
+      },
+      {
+        "username": "Terror",
+        "message": "kennste nich die werbung - is voll sicher und so"
+      },
+      {
+        "username": "quorti",
+        "message": "und? kack auf den boden, stülp ne schüssel drüber - is sicher vor fliegen, aber trotzdem scheiße :P"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "16.06.2010 21:09",
+      "date": "16.06.2010",
+      "time": "21:09"
+    },
+    "id": "#303076",
+    "content": [
+      {
+        "username": "Dickhead",
+        "message": "alter, ich hab schiss l**** zu fragen, was ihr wichtiger is.. ihr ipod oder ich :/"
+      },
+      {
+        "username": "zu",
+        "message": "fragen, was ihr wichtiger is.. ihr ipod oder ich :/"
+      },
+      {
+        "username": "Steffi",
+        "message": "was warum wie kommst du auf sowas?"
+      },
+      {
+        "username": "Dickhead",
+        "message": "was wär wenn sie den spieß umdreht und mich das gleiche im bezug auf meine xbox fragt? xD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "18.06.2010 06:34",
+      "date": "18.06.2010",
+      "time": "06:34"
+    },
+    "id": "#303191",
+    "content": [
+      {
+        "username": "Valathe",
+        "message": ": trotz deiner schlanken figur hast du einen beachtlichen körperfettanteil :P"
+      },
+      {
+        "username": "SuSeSa",
+        "message": ": WAS?! ich bin fett? ARSCHLOCH!"
+      },
+      {
+        "username": "eraz3r",
+        "message": ": er will sagen dass du geile titten hast XD"
+      },
+      {
+        "username": "SuSeSa",
+        "message": ": oh...äääh danke =)"
+      },
+      {
+        "username": "SuSeSa",
+        "message": ": wolln wir uns mal treffen?"
+      },
+      {
+        "username": "eraz3r",
+        "message": ": LOL ich brech ab XDDDD"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.06.2010 21:51",
+      "date": "21.06.2010",
+      "time": "21:51"
+    },
+    "id": "#303379",
+    "content": [
+      {
+        "username": "Cid von Poser",
+        "message": "Jährlich sterben mehr Menschen durch Eseltritte als durch Flugzeugabstürze."
+      },
+      {
+        "username": "Waschbaerranger",
+        "message": "Und es sterben jährlich mehr Menschen durch Flugzeugabstürze als durch Haiangriffe...das heißt, Esel sind viel gefährlicher...lasst uns was gegen die Esel unternehmen!!"
+      },
+      {
+        "username": "Cid von Poser",
+        "message": "\"Der weiße Esel\" - jetzt auch in ihrem Kino!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.06.2010 23:45",
+      "date": "21.06.2010",
+      "time": "23:45"
+    },
+    "id": "#303429",
+    "content": [
+      {
+        "username": "-ScReAm-",
+        "message": "also ich hab zwar schon oft komplimente für meine augen gekriegt, weil sie so extrem hellblau sind, aber als mein freund letztens ankam und meinte \"du hast den schönsten bluescreen, den ich je gesehen habe\", wurd's mir echt zu viel :/"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "22.06.2010 21:13",
+      "date": "22.06.2010",
+      "time": "21:13"
+    },
+    "id": "#303509",
+    "content": [
+      {
+        "username": "Daniela",
+        "message": "sebi, 3 frauen gegen 1 mann"
+      },
+      {
+        "username": "Daniela",
+        "message": "wer is in der unterzahl?^^"
+      },
+      {
+        "username": "Sebi",
+        "message": "die intelligenz"
+      },
+      {
+        "username": "Laura",
+        "message": "ja eben die intelligenz is in der unterzahl"
+      },
+      {
+        "username": "Sebi",
+        "message": "... "
+      },
+      {
+        "username": "Laura",
+        "message": "oh"
+      },
+      {
+        "username": "Laura",
+        "message": "jetzt blick ich es erst^^"
+      },
+      {
+        "username": "Laura",
+        "message": "******e^^"
+      },
+      {
+        "username": "Sebi",
+        "message": "loool"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "26.06.2010 23:33",
+      "date": "26.06.2010",
+      "time": "23:33"
+    },
+    "id": "#303716",
+    "content": [
+      {
+        "username": "Saphir",
+        "message": "Weißt du Chemie ist ja schon so ne Sache. Aber wie das der Max heut gerissen hat in der Arbeit ey =D"
+      },
+      {
+        "username": "JR117XC",
+        "message": "Wieso was war denn?"
+      },
+      {
+        "username": "Saphir",
+        "message": "Na ja ich hab ihn gefragt \"Und was haste denn bei Frage soundso hingeschrieben?\" Der guckt mich nur verpeilt an und meint ganz trocken: \"Nix. Ich hab nen Elefanten in die Tabelle reingemalt und druntergeschrieben: 'Es tut mir ja sehr leid aber ich kann diese Aufgabe nicht bearbeiten weil da ein Elefant in meiner Tabelle sitzt.'\""
+      },
+      {
+        "username": "JR117XC",
+        "message": "LOL"
+      },
+      {
+        "username": "Saphir",
+        "message": "In Physik hätt er bestimmt noch Punkte drauf bekommen-.-"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.06.2010 12:35",
+      "date": "29.06.2010",
+      "time": "12:35"
+    },
+    "id": "#303763",
+    "content": [
+      {
+        "username": "Julia",
+        "message": "schatz,ich weiß man sagt sowas nicht über icq.. aber"
+      },
+      {
+        "username": "Julia",
+        "message": "ich bin schwanger.."
+      },
+      {
+        "username": "Julia",
+        "message": "Bist du froh darüber?"
+      },
+      {
+        "username": "Julia",
+        "message": "Schatz? :S"
+      },
+      {
+        "username": "Bankai",
+        "message": "Er ist gerade nicht hier,einkaufen."
+      },
+      {
+        "username": "Julia",
+        "message": "Wer ist das denn?"
+      },
+      {
+        "username": "Bankai",
+        "message": "Allem Anschein nach ...die Oma."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "29.06.2010 18:14",
+      "date": "29.06.2010",
+      "time": "18:14"
+    },
+    "id": "#303769",
+    "content": [
+      {
+        "username": "Shark",
+        "message": "Wer zuletzt lacht hat nen shice Ping!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "01.07.2010 14:44",
+      "date": "01.07.2010",
+      "time": "14:44"
+    },
+    "id": "#303762",
+    "content": [
+      {
+        "username": "warlord_7",
+        "message": "heute ist mir auf dem Weg nach Hause eine schwarze Katze über die Straße gelaufen. Dort angekommen ist sie aber wieder zurückgelaufen auf die andere Seite."
+      },
+      {
+        "username": "warlord_7",
+        "message": "jetzt stellt sich die Frage: Hat sie den negativen Buff auf mich gecancelled oder den Effekt verdoppelt?"
+      }
+    ]
+  }
+]

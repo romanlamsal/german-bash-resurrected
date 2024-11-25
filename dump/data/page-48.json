@@ -1,0 +1,549 @@
+[
+  {
+    "date": {
+      "fullDate": "09.05.2005 17:00",
+      "date": "09.05.2005",
+      "time": "17:00"
+    },
+    "id": "#5655",
+    "content": [
+      {
+        "type": "message",
+        "username": "@Hansii",
+        "message": "haben wir ne quote-funktion im bot?"
+      },
+      {
+        "type": "message",
+        "username": "@Joysticker",
+        "message": "!quote"
+      },
+      {
+        "type": "message",
+        "username": "@Joysticker",
+        "message": "!quote2"
+      },
+      {
+        "type": "message",
+        "username": "@Joysticker",
+        "message": "!quote 2"
+      },
+      {
+        "type": "message",
+        "username": "@Joysticker",
+        "message": "nein."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.05.2005 17:57",
+      "date": "09.05.2005",
+      "time": "17:57"
+    },
+    "id": "#5664",
+    "content": [
+      {
+        "type": "message",
+        "username": "[WaW]MikeTango",
+        "message": "eine Lösung zu einer Menge Probleme bei Star Wars wäre es, Geländer an hohe gefährliche Überwege anzubringen"
+      },
+      {
+        "type": "message",
+        "username": "AbbyGel",
+        "message": "dann muessten die sich ja nen plot ueberlegen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.05.2005 19:02",
+      "date": "09.05.2005",
+      "time": "19:02"
+    },
+    "id": "#5666",
+    "content": [
+      {
+        "type": "message",
+        "username": "Fettsack",
+        "message": "Hat jemand von euch noch ein SuSE 6.0 (pers/prof egal) rumliegen?"
+      },
+      {
+        "type": "message",
+        "username": "%gencha^",
+        "message": "müsst ich jetz im müll suchen"
+      },
+      {
+        "type": "message",
+        "username": "Fettsack",
+        "message": "gencha^ such mal bitte"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.05.2005 19:36",
+      "date": "09.05.2005",
+      "time": "19:36"
+    },
+    "id": "#5669",
+    "content": [
+      {
+        "type": "message",
+        "username": "benja",
+        "message": "ich bin nen typischer quartalssäufer"
+      },
+      {
+        "type": "message",
+        "username": "T|ran",
+        "message": "jede viertelstunde ein bier?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.05.2005 21:01",
+      "date": "09.05.2005",
+      "time": "21:01"
+    },
+    "id": "#5677",
+    "content": [
+      {
+        "type": "misc",
+        "text": "MrPotato:\tIch glaube ich habe eine Luecke im System gefunden"
+      },
+      {
+        "type": "misc",
+        "text": "\nMrPotato:\twenn ich morgen nicht hingehe schreibe ich auch keine schlechte Note O_o einfach genial"
+      },
+      {
+        "type": "misc",
+        "text": "\nx3n4:\tdann hast du 0 punkte und kein ABI "
+      },
+      {
+        "type": "misc",
+        "text": "\nMrPotato:\tDiese Schweine denken auch an alles"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.05.2005 22:17",
+      "date": "09.05.2005",
+      "time": "22:17"
+    },
+    "id": "#5688",
+    "content": [
+      {
+        "type": "misc",
+        "text": "--- evilissimo sets modes [#cpp +b *troll*!*@*]"
+      },
+      {
+        "type": "message",
+        "username": "*volkard",
+        "message": "nu kann ich mich nicht mehr tretroller nennen. :("
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "09.05.2005 23:52",
+      "date": "09.05.2005",
+      "time": "23:52"
+    },
+    "id": "#5696",
+    "content": [
+      {
+        "type": "message",
+        "username": "Jongking",
+        "message": "nur eine sache nervt mich: mein sound "
+      },
+      {
+        "type": "message",
+        "username": "Jongking",
+        "message": "ich hab jetzt ne super-externe-24bit-5.1 graka "
+      },
+      {
+        "type": "message",
+        "username": "wastlmaier",
+        "message": "graka vor allem "
+      },
+      {
+        "type": "message",
+        "username": "Jongking",
+        "message": "und trotzdem ruckelt das teil beim scrollen "
+      },
+      {
+        "type": "message",
+        "username": "wastlmaier",
+        "message": "hä? "
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 14:10",
+      "date": "10.05.2005",
+      "time": "14:10"
+    },
+    "id": "#5706",
+    "content": [
+      {
+        "type": "message",
+        "username": "Magicdead",
+        "message": "hmm ich bin mit xchat ganz zufrieden"
+      },
+      {
+        "type": "message",
+        "username": "Magicdead",
+        "message": "ich würd hier niemals mIRC installieren"
+      },
+      {
+        "type": "message",
+        "username": "ditschi",
+        "message": "gott sei dank sind geschmäcker verschiedn"
+      },
+      {
+        "type": "message",
+        "username": "ditschi",
+        "message": ":)"
+      },
+      {
+        "type": "message",
+        "username": "Magicdead",
+        "message": "das hat nichts mit geschmack zu tun"
+      },
+      {
+        "type": "message",
+        "username": "Magicdead",
+        "message": "es gibt blos kein mIRC für linux :P"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 14:42",
+      "date": "10.05.2005",
+      "time": "14:42"
+    },
+    "id": "#5707",
+    "content": [
+      {
+        "type": "message",
+        "username": "%kante",
+        "message": "bäh"
+      },
+      {
+        "type": "message",
+        "username": "%kante",
+        "message": "wie hab ich das denn jetz geschafft?"
+      },
+      {
+        "type": "message",
+        "username": "%kante",
+        "message": "hab mir grad beim trinken orangensaft durch die nase geschüttet"
+      },
+      {
+        "type": "message",
+        "username": "%kante",
+        "message": "aber nicht wie das manchen leuten passiert durchs verschlucken durch die nase wieder rausgepustet"
+      },
+      {
+        "type": "message",
+        "username": "%kante",
+        "message": "sondern mit der flasche vom mund abgerutscht und dabei in die nase geschüttet"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 17:11",
+      "date": "10.05.2005",
+      "time": "17:11"
+    },
+    "id": "#5721",
+    "content": [
+      {
+        "type": "message",
+        "username": "aKoN",
+        "message": "ich.com sie.net scha.de "
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 19:24",
+      "date": "10.05.2005",
+      "time": "19:24"
+    },
+    "id": "#5730",
+    "content": [
+      {
+        "type": "message",
+        "username": "Micha",
+        "message": "vielleicht sollte ich mal aufhören, auf andere zu hören.. hm"
+      },
+      {
+        "type": "message",
+        "username": "Schneewittchen",
+        "message": "auf wen hörst du denn bis jetzt?"
+      },
+      {
+        "type": "message",
+        "username": "Micha",
+        "message": "bei beziehungen? auf meinen schwanz"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 20:15",
+      "date": "10.05.2005",
+      "time": "20:15"
+    },
+    "id": "#5735",
+    "content": [
+      {
+        "type": "message",
+        "username": "Fumasu",
+        "message": "(%n8light) tattoo-piercing-blowjob &lt;-- heißt der laden echt so?"
+      },
+      {
+        "type": "message",
+        "username": "Saschaaa",
+        "message": "LOL"
+      },
+      {
+        "type": "message",
+        "username": "n8light",
+        "message": "rofl"
+      },
+      {
+        "type": "message",
+        "username": "Fumasu",
+        "message": "naja kann ja sein.... nach 5 piercings ein blowjob gratis oder so"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 20:22",
+      "date": "10.05.2005",
+      "time": "20:22"
+    },
+    "id": "#5738",
+    "content": [
+      {
+        "type": "message",
+        "username": "Feschler",
+        "message": "Boah krass, schau dir mal die Mütze hier an, die lag aufm Klo rum!"
+      },
+      {
+        "type": "message",
+        "username": "OrcO&gt; Verdammt man, das ist der Stoffüberzug für die Klorollen ",
+        "message": "_&lt;"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 20:23",
+      "date": "10.05.2005",
+      "time": "20:23"
+    },
+    "id": "#5739",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sahiti",
+        "message": "Leitungswasser enthält weibliche Hormone."
+      },
+      {
+        "type": "message",
+        "username": "OrcO",
+        "message": "Das kommt von den vielen Tampons die im Klo runtergespült werden!"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 20:28",
+      "date": "10.05.2005",
+      "time": "20:28"
+    },
+    "id": "#5744",
+    "content": [
+      {
+        "type": "misc",
+        "text": "OrcO: XP ist wie ein Marshmellow... Es wird immer größer..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 20:52",
+      "date": "10.05.2005",
+      "time": "20:52"
+    },
+    "id": "#5751",
+    "content": [
+      {
+        "type": "message",
+        "username": "`emy^hausaufgab",
+        "message": "weiß jemand zufällig ob nächste woche in holland strandwetter ist?*g*"
+      },
+      {
+        "type": "message",
+        "username": "Sput|lectureAFK",
+        "message": "das ist doch egal"
+      },
+      {
+        "type": "message",
+        "username": "Sput|lectureAFK",
+        "message": "im coffeeshop is immer sommer"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 21:42",
+      "date": "10.05.2005",
+      "time": "21:42"
+    },
+    "id": "#5755",
+    "content": [
+      {
+        "type": "message",
+        "username": "C4pr!S0nne",
+        "message": "www.unf-unf.de"
+      },
+      {
+        "type": "message",
+        "username": "Snoopy",
+        "message": "hab kein i-net"
+      },
+      {
+        "type": "message",
+        "username": "C4pr!S0nne",
+        "message": "lol??"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 22:38",
+      "date": "10.05.2005",
+      "time": "22:38"
+    },
+    "id": "#5759",
+    "content": [
+      {
+        "type": "message",
+        "username": "Ky-Lin",
+        "message": "doof finde ich, wenn jemand behauptet Kiffen wär schlimm, sich dann aber immer k.O. säuft...."
+      },
+      {
+        "type": "message",
+        "username": "Greevy",
+        "message": "genau das ist schlimm deswegen mach cih beides o.o"
+      },
+      {
+        "type": "message",
+        "username": "Greevy",
+        "message": "ich bin neutral"
+      },
+      {
+        "type": "message",
+        "username": "Greevy",
+        "message": "^^"
+      },
+      {
+        "type": "message",
+        "username": "Ky-Lin",
+        "message": "Gute Einstellung. :A"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 22:49",
+      "date": "10.05.2005",
+      "time": "22:49"
+    },
+    "id": "#5760",
+    "content": [
+      {
+        "type": "message",
+        "username": "darthflo",
+        "message": "IPv4/v6 in Dotted decimal, Longip, ... ich brauch mehr details ;D"
+      },
+      {
+        "type": "message",
+        "username": "darthflo",
+        "message": "und wie schreibste sie auf?"
+      },
+      {
+        "type": "message",
+        "username": "darthflo",
+        "message": "mit hex?dez?binär?"
+      },
+      {
+        "type": "message",
+        "username": "grand|canyon",
+        "message": "Mitm Stift !"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "10.05.2005 23:36",
+      "date": "10.05.2005",
+      "time": "23:36"
+    },
+    "id": "#5766",
+    "content": [
+      {
+        "type": "message",
+        "username": "Sow@",
+        "message": "also wie addet man?"
+      },
+      {
+        "type": "message",
+        "username": "J",
+        "message": "k.a. ich hab kein icq, hab miranda\t"
+      },
+      {
+        "type": "message",
+        "username": "Sow@",
+        "message": "ich raff grad nix, was heißt k.a.?"
+      },
+      {
+        "type": "message",
+        "username": "J",
+        "message": "keine ahnung\t"
+      },
+      {
+        "type": "message",
+        "username": "Sow@",
+        "message": "ich auch net\t"
+      },
+      {
+        "type": "message",
+        "username": "J",
+        "message": ";-)\t"
+      },
+      {
+        "type": "message",
+        "username": "Sow@",
+        "message": "hoffentlich fällt dir mal ein reisensmily aufn kopf..."
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  }
+]

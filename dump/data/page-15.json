@@ -1,0 +1,706 @@
+[
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:30",
+      "date": "21.11.2004",
+      "time": "10:30"
+    },
+    "id": "#627",
+    "content": [
+      {
+        "type": "misc",
+        "text": " &lt; Knolle&gt; und italien liegt in asien"
+      },
+      {
+        "type": "misc",
+        "text": "\n &lt; HerzKasper&gt; echt?"
+      },
+      {
+        "type": "misc",
+        "text": "\n &lt; HerzKasper&gt; näh"
+      },
+      {
+        "type": "misc",
+        "text": "\n &lt; HerzKasper&gt; quatsch"
+      },
+      {
+        "type": "misc",
+        "text": "\n &lt; HerzKasper&gt; das geht net"
+      },
+      {
+        "type": "misc",
+        "text": "\n &lt; HerzKasper&gt; ein land kann nicht in einem land liegen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:31",
+      "date": "21.11.2004",
+      "time": "10:31"
+    },
+    "id": "#625",
+    "content": [
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "rofl"
+      },
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "ich bin son depp"
+      },
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "ich wollte mir vor ner guten stunde was zu essen machen..."
+      },
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "also pack ich wasser innen topf und mach die platte an"
+      },
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "stell den topf rauf, denke \"checke in 10 min obs kocht\""
+      },
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "nunja.. hab völlig vergessen..."
+      },
+      {
+        "type": "message",
+        "username": "Ryen",
+        "message": "jetz ist der topf wieder leer *g*"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:31",
+      "date": "21.11.2004",
+      "time": "10:31"
+    },
+    "id": "#622",
+    "content": [
+      {
+        "type": "message",
+        "username": "LupusE",
+        "message": "ahh! ich suche den fehler warum /dev/hdc7 sich nicht mounten lässt."
+      },
+      {
+        "type": "message",
+        "username": "LupusE",
+        "message": "ganz einfach, weil die platte 11km nördlich liegt."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:31",
+      "date": "21.11.2004",
+      "time": "10:31"
+    },
+    "id": "#615",
+    "content": [
+      {
+        "type": "message",
+        "username": "maddin",
+        "message": "ich benutze kein windows?"
+      },
+      {
+        "type": "message",
+        "username": "Lino",
+        "message": "ich auch nicht ich habe xp"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:31",
+      "date": "21.11.2004",
+      "time": "10:31"
+    },
+    "id": "#579",
+    "content": [
+      {
+        "type": "message",
+        "username": "morpheus",
+        "message": "morgen is dienstag - da geh ich nur saufen und wochenende einläuten *g*"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#573",
+    "content": [
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "probier das mal: dd if=/dev/urandom of=/dev/hda bs=1M count=4"
+      },
+      {
+        "type": "message",
+        "username": "NemeSYS",
+        "message": "BurningIce: vergiss den letzten tip von [Zero] "
+      },
+      {
+        "type": "misc",
+        "text": "\n[..]"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "NemeSYS, warum hassu den wegen dd gewarnt"
+      },
+      {
+        "type": "message",
+        "username": "NemeSYS",
+        "message": "[Zero]: na, ich mag keine destruktiven tips"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "danach ist der bootvorgang bestimmt schonmal schneller"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "der war nciht destruktiv"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "der war vernichtend"
+      },
+      {
+        "type": "message",
+        "username": "Fab-Ko",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "da ist ein kleiner aber feiner unterschied"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#555",
+    "content": [
+      {
+        "type": "message",
+        "username": "+Sentinel",
+        "message": "Ravage weisst du wieso mein bot immer raus geht wenn ich mein pc aus mach?"
+      },
+      {
+        "type": "message",
+        "username": "@Ravage&gt; &gt;&gt;Sentinel&gt;",
+        "message": "weil der auf deinem Rechner läuft?"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#510",
+    "content": [
+      {
+        "type": "message",
+        "username": "gencha^",
+        "message": "ich muss jetz grad nochma einer andren tätigkeit nachgehn"
+      },
+      {
+        "type": "message",
+        "username": "gencha^",
+        "message": "brb"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "gencha: joar, aber wischs weg"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#508",
+    "content": [
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "ich habe 3 bauelemente gekauft"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "volsteine oder wie die heißen"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "für meine mutter"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "die hure!"
+      },
+      {
+        "type": "message",
+        "username": "schwenger",
+        "message": "is doch toll"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "die hätte mir ja mal sagen können das son stein 40 - 50 kilo wiegt und schwarfe kanten hat"
+      },
+      {
+        "type": "message",
+        "username": "schwenger",
+        "message": "lol"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "ich seh jetzt aus wie suicidgefärdet"
+      },
+      {
+        "type": "message",
+        "username": "schwenger",
+        "message": "mordversuch nr 54554354 an dir"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "und meinem rücksitz tat es auch nicht gerade gut"
+      },
+      {
+        "type": "message",
+        "username": "schwenger",
+        "message": "dafür hat man ja auch nen kofferraum"
+      },
+      {
+        "type": "message",
+        "username": "Taiwaz",
+        "message": "die dinger sin zu groß für meinen kofferaum"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#504",
+    "content": [
+      {
+        "type": "message",
+        "username": "BurningIce",
+        "message": "moin"
+      },
+      {
+        "type": "message",
+        "username": "BurningIce",
+        "message": "ich brauch mal hilfe"
+      },
+      {
+        "type": "message",
+        "username": "nilss",
+        "message": "ich auch"
+      },
+      {
+        "type": "message",
+        "username": "ToxicSin",
+        "message": "zur zeit sind leider alle verfügbaren chatter beschäftigt. der nächste frei platz gehört ihnen..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#488",
+    "content": [
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "perl -e 'fork while (1);'"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "genial"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "kann kein anderes programm mehr forken dadurch :)"
+      },
+      {
+        "type": "misc",
+        "text": "\n[Zero] has quit (Connection reset by peer)"
+      },
+      {
+        "type": "misc",
+        "text": "\n[Zero] (~Wintermut@euirc-117ea45a.dip.t-dialin.net) has joined #gentoo"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "arg!"
+      },
+      {
+        "type": "message",
+        "username": "[Zero]",
+        "message": "habe mich gerade zu tode geforkt"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:32",
+      "date": "21.11.2004",
+      "time": "10:32"
+    },
+    "id": "#480",
+    "content": [
+      {
+        "type": "message",
+        "username": "|3of5|",
+        "message": "du hast aber keinen dual G5"
+      },
+      {
+        "type": "message",
+        "username": "Gast21683",
+        "message": "aber dual 400ddr"
+      },
+      {
+        "type": "message",
+        "username": "Knolle",
+        "message": "ja genau, steck den ram in den cpu sockel"
+      },
+      {
+        "type": "message",
+        "username": "Knolle",
+        "message": "dein pc wird fliegen ;)"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:33",
+      "date": "21.11.2004",
+      "time": "10:33"
+    },
+    "id": "#473",
+    "content": [
+      {
+        "type": "activity",
+        "username": "Jackhead",
+        "activity": "has joined #aachen"
+      },
+      {
+        "type": "message",
+        "username": "Jackhead",
+        "message": "Hier treiben sich aachener rum?"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "nein"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "wir sind aus bremen"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "wir haben den channel overtaked"
+      },
+      {
+        "type": "message",
+        "username": "Jackhead",
+        "message": "verstehe"
+      },
+      {
+        "type": "message",
+        "username": "Jackhead",
+        "message": "dann kennste dich ja super aus in aachen oder?"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "nein, war noch nie da"
+      },
+      {
+        "type": "message",
+        "username": "[sama]",
+        "message": "ne, wir haben diesen chan overtaked, weil die aachener unseren #bremen chan overtaked haben"
+      },
+      {
+        "type": "message",
+        "username": "[sama]",
+        "message": "wir haben es ihnen heimgezahlt hihihi"
+      },
+      {
+        "type": "message",
+        "username": "Jackhead",
+        "message": "dann sollte ich woll in #bremen fragen was?"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "vermutlich"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "hier sind jedenfalls keine aachener"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "ausser dem kaj"
+      },
+      {
+        "type": "message",
+        "username": "[sama]",
+        "message": "nur hanseaten"
+      },
+      {
+        "type": "message",
+        "username": "[twisti]",
+        "message": "der darf hierbleiben weil der geholfen hat beim takeover"
+      },
+      {
+        "type": "message",
+        "username": "Jackhead",
+        "message": "aha"
+      },
+      {
+        "type": "message",
+        "username": "q`away",
+        "message": "boah twisti"
+      },
+      {
+        "type": "message",
+        "username": "q`away",
+        "message": "deine geekness is echt nich in worte zu fassen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:33",
+      "date": "21.11.2004",
+      "time": "10:33"
+    },
+    "id": "#470",
+    "content": [
+      {
+        "type": "activity",
+        "username": "JustCute",
+        "activity": "is now known as Ein"
+      },
+      {
+        "type": "activity",
+        "username": "Ein",
+        "activity": "Fehler ist in Ihrem Chatclient aufgetreten. Bitte schliessen Sie alle Programme und starten Sie Windows neu."
+      },
+      {
+        "type": "message",
+        "username": "Vortec",
+        "message": "Ein Fehler ist in Ihrem Chatclient aufgetreten. Bitte schliessen Sie alle Programme und starten Sie Windows neu."
+      },
+      {
+        "type": "message",
+        "username": "Vortec",
+        "message": "wtf?"
+      },
+      {
+        "type": "message",
+        "username": "Mac_Fly",
+        "message": "Das hatte ich auch gerade"
+      },
+      {
+        "type": "message",
+        "username": "Mac_Fly",
+        "message": "mit xchat unter _LINUX_"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:33",
+      "date": "21.11.2004",
+      "time": "10:33"
+    },
+    "id": "#465",
+    "content": [
+      {
+        "type": "message",
+        "username": "!boardy",
+        "message": "MAN KANN AUCH OHNE SPASS DROGEN HABEN! "
+      },
+      {
+        "type": "message",
+        "username": "!boardy",
+        "message": "äh"
+      },
+      {
+        "type": "message",
+        "username": "!boardy",
+        "message": "umgekehrt"
+      },
+      {
+        "type": "message",
+        "username": "!boardy",
+        "message": ";)"
+      },
+      {
+        "type": "misc",
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:33",
+      "date": "21.11.2004",
+      "time": "10:33"
+    },
+    "id": "#459",
+    "content": [
+      {
+        "type": "message",
+        "username": "!asdf",
+        "message": "vll sollt ich ma den rollladen öffnen"
+      },
+      {
+        "type": "message",
+        "username": "+jimbo|langeweile",
+        "message": "lass se unten"
+      },
+      {
+        "type": "message",
+        "username": "+jimbo|langeweile",
+        "message": "draußen ist der gamma wert viel zu hoch"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:34",
+      "date": "21.11.2004",
+      "time": "10:34"
+    },
+    "id": "#442",
+    "content": [
+      {
+        "type": "message",
+        "username": "@dark_angel_of_apokalypse",
+        "message": "ein alter kindheitstraum von mir ist es, die 32-bit-farbpalette als buntstifte zu besitzen"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:34",
+      "date": "21.11.2004",
+      "time": "10:34"
+    },
+    "id": "#436",
+    "content": [
+      {
+        "type": "message",
+        "username": "arcane",
+        "message": "hmpf... nein ich wante microsoft sonstirgendwas NICHT to connect to the internet"
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:34",
+      "date": "21.11.2004",
+      "time": "10:34"
+    },
+    "id": "#421",
+    "content": [
+      {
+        "type": "activity",
+        "username": "kante",
+        "activity": "hört \"Die Kassierer - Mach die Titten frei, ich will wichsen!\""
+      },
+      {
+        "type": "message",
+        "username": "EgS",
+        "message": "jeah geil"
+      },
+      {
+        "type": "message",
+        "username": "EgS",
+        "message": "das bringt mich auf eine Idee"
+      },
+      {
+        "type": "message",
+        "username": "EgS",
+        "message": "afk ..."
+      }
+    ]
+  },
+  {
+    "date": {
+      "fullDate": "21.11.2004 10:34",
+      "date": "21.11.2004",
+      "time": "10:34"
+    },
+    "id": "#416",
+    "content": [
+      {
+        "type": "message",
+        "username": "maxe_HG",
+        "message": "aber ich lass mich ja gerne beleren"
+      },
+      {
+        "type": "message",
+        "username": "Mac_Fly",
+        "message": "OK"
+      },
+      {
+        "type": "message",
+        "username": "Mac_Fly",
+        "message": "belehren schreibt man mit h :p"
+      }
+    ]
+  }
+]
