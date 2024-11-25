@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 
 const { page, currentPage, numPages } = Astro.props
 
-function coloredUsername(username) {
+function coloredUsername(username: string) {
     let hash = 0
     username.split("").forEach(char => {
         hash = char.charCodeAt(0) + ((hash << 5) - hash)
@@ -31,7 +31,7 @@ function coloredUsername(username) {
 ---
 
 <script>
-    const swipeArea = document.querySelector("ul");
+    const swipeArea = document.querySelector("ul")!;
     const swipeThreshold = window.outerWidth / 3
 
     let touchStartX = 0;
@@ -62,7 +62,7 @@ function coloredUsername(username) {
         }
     });
 
-    function getSwipeDirection(startX, endX) {
+    function getSwipeDirection(startX: number, endX: number): -1 | 0 | 1 {
         const deltaX = endX - startX;
 
         if (Math.abs(deltaX) > swipeThreshold) {
@@ -72,12 +72,12 @@ function coloredUsername(username) {
         return 0
     }
 
-    function handleSwipe(direction) {
+    function handleSwipe(direction: -1 | 0 | 1) {
         if (direction < 0) {
-            document.querySelector("#nav-prev a").click()
+            (document.querySelector("#nav-prev a") as unknown as { click: () => void} | undefined)?.click()
         }
         if (direction > 0) {
-            document.querySelector("#nav-next a").click()
+            (document.querySelector("#nav-next a") as unknown as { click: () => void} | undefined)?.click()
         }
 
         // You can replace the alert with any action you want to take based on the swipe direction
@@ -86,6 +86,7 @@ function coloredUsername(username) {
 
 <html>
 <head>
+    <title>german-bash.org resurrected</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -93,10 +94,10 @@ function coloredUsername(username) {
 <h1 class="font-mono text-center w-full py-4 text-xl">german-bash.org resurrected</h1>
 <ul class="flex flex-col gap-y-8 px-4 font-mono transition-transform duration-1000">
     {page.data.map(entry => {
-        const firstUser = entry.content.find(e => e.username)
-        const firstUsername = firstUser ? firstUser.username : null
+        // const firstUser = entry.content.find(e => e.username)
+        // const firstUsername = firstUser ? firstUser.username : null
 
-        return <li key={entry.id} class="px-2 md:px-4 py-2 border-2 rounded-sm">
+        return <li>
             <article>
                 <header class="text-xs text-slate-600 mb-2">{entry.id} | {entry.date.fullDate}</header>
                 <main class="grid grid-cols-1 md:grid-cols-[auto_1fr] [&>p]:md:col-span-2 gap-x-4 gap-y-2 md:gap-y-1">
@@ -124,13 +125,13 @@ function coloredUsername(username) {
 </ul>
 <nav class="sticky bottom-0 inset-x-0 text-center p-8 text-lg md:text-2xl bg-gradient-to-b from-white/50 to-gray-400/50 font-mono">
     <button id="nav-prev" disabled={currentPage === 1} class:list={["disabled:invisible disabled:pointer-events-none"]}>
-        <a href={`/page/${currentPage - 1}`} class="bg-white border rounded-lg px-6 py-4 hover:bg-gray-100">
+        <a href={`/german-bash-resurrected/page/${currentPage - 1}`} class="bg-white border rounded-lg px-6 py-4 hover:bg-gray-100">
             {"<"}
         </a>
     </button>
     <span class="bg-white p-4 rounded-lg border-0">{currentPage}</span>
     <button id="nav-next" disabled={currentPage === numPages} class:list={["disabled:invisible disabled:pointer-events-none"]}>
-        <a href={`/page/${currentPage + 1}`} class="bg-white border rounded-lg px-6 py-4 hover:bg-gray-100">
+        <a href={`/german-bash-resurrected/page/${currentPage + 1}`} class="bg-white border rounded-lg px-6 py-4 hover:bg-gray-100">
             {">"}
         </a>
     </button>

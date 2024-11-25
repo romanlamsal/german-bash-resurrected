@@ -5,8 +5,11 @@ import tailwind from "@astrojs/tailwind"
 
 // https://astro.build/config
 export default defineConfig({
+    site: 'https://romanlamsal.github.io',
+    base: 'german-bash-resurrected',
+
     redirects: {
-        "/[...catchall]": "/page/1",
+        "/": "german-bash-resurrected/page/1",
     },
 
     integrations: [tailwind()],
